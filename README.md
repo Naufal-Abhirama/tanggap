@@ -1,2 +1,2 @@
-# tanggap-ai
+# tanggap
 Offline disaster response AI with Gemma 4
