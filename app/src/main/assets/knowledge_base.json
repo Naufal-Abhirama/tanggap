@@ -1,0 +1,1317 @@
+[
+  {
+    "chunk_id": "bnpb_umum_manajemen_perencanaan_latihan_002",
+    "disaster_type": "umum",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "struktur_organisasi_dan_tahapan_latihan",
+    "language": "id",
+    "text": "Latihan Kesiapsiagaan bertujuan meningkatkan kapasitas SDM dalam menjalankan SOP dan menguji peralatan komunikasi sistem peringatan dini melalui skenario nyata[cite: 1]. Struktur organisasi Tim Perencana terdiri dari Pengarah (kebijakan), Penanggung Jawab (teknis), Bidang Perencanaan/Pengendali, Bidang Operasional (Unit Peringatan Dini, P3K, Evakuasi, Logistik, Keamanan), dan Bidang Evaluasi[cite: 1]. Latihan dilakukan secara berjenjang melalui Tahap Pelatihan, Tahap Simulasi, dan Tahap Uji Sistem[cite: 1]. Hari Kesiapsiagaan Bencana diperingati setiap 26 April sebagai refleksi lahirnya UU No. 24 Tahun 2007[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_tsunami_protokol_inatews_sirine_003",
+    "disaster_type": "tsunami",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "protokol_komunikasi_sirine_dan_bmkg",
+    "language": "id",
+    "text": "Sirine InaTEWS merupakan moda komunikasi utama berjangkauan ±2 km yang tetap berfungsi selama 30 menit tanpa listrik[cite: 1]. Protokol aktivasi sirine untuk peringatan tsunami adalah nada tetap selama 3 menit yang bermakna perintah evakuasi segera[cite: 1]. BMKG mendiseminasikan empat tahapan berita: Berita 1 (<5 menit pasca-gempa) berisi parameter dan potensi dampak (Awas/Siaga/Waspada); Berita 2 berupa perbaikan parameter; Berita 3 hasil observasi tide gauge/buoy; dan Berita 4 sebagai pernyataan ancaman berakhir (paling cepat 2 jam setelah Berita 1)[cite: 1]. Uji coba rutin dilakukan setiap 26 Desember pukul 10.00 pagi dengan nada tetap selama 1 menit didahului rekaman suara tes[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_gempa_tsunami_evakuasi_mandiri_004",
+    "disaster_type": "gempa_tsunami",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "prosedur_evakuasi_mandiri_gempa_dan_tsunami",
+    "language": "id",
+    "text": "Evakuasi mandiri gempa bumi di gedung bertingkat dilakukan dengan merapat ke dinding dekat elevator (konstruksi terkuat) atau berlindung di bawah meja kokoh, serta dilarang menggunakan elevator atau menyalakan api (risiko kebocoran gas)[cite: 1]. Untuk tsunami, evakuasi harus dilakukan jika air laut surut tiba-tiba atau terdengar suara gemuruh seperti mesin jet[cite: 1]. Status AWAS menginstruksikan evakuasi menyeluruh arah tegak lurus pantai (estimasi > 3 meter), SIAGA (0,5 - 3 meter) evakuasi terarah, dan WASPADA (< 0,5 meter) untuk menjauhi pantai/sungai[cite: 1]. Kearifan lokal 'Smong' dan indikator alam seperti perilaku hewan gelisah menjadi kunci deteksi dini tambahan[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_kebakaran_teknis_suhu_evakuasi_005",
+    "disaster_type": "kebakaran",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "sop_kebakaran_gedung_dan_segitiga_api",
+    "language": "id",
+    "text": "Kebakaran dipicu oleh Segitiga Api: Oksigen, Bahan Bakar, dan Panas/Reaksi Kimia[cite: 1]. Dalam ruangan terbakar, suhu dapat melonjak dari $100^ irc C$ hingga $600^ irc C$ dalam waktu sangat singkat, memenuhi ruangan dengan asap beracun dalam <5 menit[cite: 1]. SOP evakuasi mengharuskan individu merunduk saat keluar karena asap berada di posisi atas[cite: 1]. Jika pemicu kebakaran adalah arus pendek listrik, sakelar wajib dimatikan sebelum penyiraman air untuk mencegah sengatan listrik[cite: 1]. Pemadaman darurat dapat menggunakan soda kue atau karung goni basah untuk memutus pasokan oksigen jika APAR tidak tersedia[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_banjir_longsor_tanda_tindakan_006",
+    "disaster_type": "longsor",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "prosedur_evakuasi_banjir_dan_gerakan_tanah",
+    "language": "id",
+    "text": "Dalam evakuasi banjir, arus setinggi 15 cm cukup untuk menjatuhkan orang dan 60 cm dapat menghanyutkan mobil; gunakan tongkat untuk mengecek kedalaman air[cite: 1]. Untuk tanah longsor, tanda awal meliputi retakan lereng, pohon miring, dan air sumur yang tiba-tiba keruh[cite: 1]. Jika terdengar suara gemuruh, segera lari menjauh dari jalur longsoran ke tempat stabil[cite: 1]. Jika tidak sempat melarikan diri, prosedur perlindungan adalah meringkuk seperti bola dan melindungi kepala dengan tangan secara kuat[cite: 1]. Dokumen penting harus disimpan dalam wadah kedap air di area tinggi sebelum bencana terjadi[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_umum_pertolongan_pertama_drabc_007",
+    "disaster_type": "umum",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "prinsip_medis_darurat_dan_triage",
+    "language": "id",
+    "text": "Prinsip DRABC dalam pertolongan pertama meliputi: Danger (keamanan lingkungan), Response (cek kesadaran), Airway (jalan napas), Breathing (napas), dan Circulation (nadi/pendarahan)[cite: 1]. Prioritas bantuan (Triage) diarahkan pada korban kritis dengan peluang selamat terbesar[cite: 1]. Korban dengan dugaan cedera tulang belakang tidak boleh dipindahkan kecuali dalam kondisi sangat mendesak[cite: 1]. Relawan penanggulangan bencana wajib memedomani Panca Dharma: Mandiri, Profesional, Solidaritas, Sinergi, dan Akuntabel dalam menjalankan tugas SAR, logistik, atau pemulihan psikososial[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_sosial_manajemen_asesmen_ppks_008",
+    "disaster_type": "sosial",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "manajemen_shelter_dan_rehabilitasi_sosial",
+    "language": "id",
+    "text": "Kriteria shelter harus memenuhi aspek keamanan (bebas ancaman sekunder), aksesibilitas logistik, dan ketersediaan air bersih/sanitasi[cite: 1]. Dalam klaster kedaruratan sosial (ATENSI), petugas melakukan asesmen PPKS yang mencatat identitas pengampu (NIK/Hubungan Keluarga), status DTKS, dan detail kondisi fisik rumah (jenis atap/lantai/dinding)[cite: 1]. Terdapat kategori khusus korban sosial yaitu Deportan (simpatisan ideologis terorisme yang dideportasi) dan Returnis (individu yang kembali dari jaringan konflik terorisme global)[cite: 1]. Kemandirian pasca-terminasi ditandai dengan pendapatan minimal setara UMR, status Bankable, dan kepemilikan modal sosial[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_visual_kontak_009",
+    "disaster_type": "multi_bencana",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "standar_visual_rambu_dan_informasi_ekor",
+    "language": "id",
+    "text": "Rambu bencana mengikuti standar warna internasional: Kuning untuk Peringatan bahaya, Putih dengan garis tepi Merah untuk Larangan, dan Hijau untuk Jalur Evakuasi/Titik Kumpul Aman[cite: 1]. Indeks Kerentanan Sosial disusun berdasarkan Kepadatan Penduduk (60%) dan Kelompok Rentan (40% meliputi rasio jenis kelamin, umur, kemiskinan, dan disabilitas)[cite: 1]. Untuk penanganan banjir/longsor Sulsel 2024, BNPB menyalurkan DSP sebesar Rp2,15 Miliar ke berbagai kabupaten[cite: 1]. Daftar Kontak Darurat: Polisi (110), Damkar (113), Ambulans (118/119), dan Darurat Terpadu (112)[cite: 1]. Data Gunung Lewotobi Laki-Laki 2024 mencatat status Level IV (Awas) dengan zona larangan radius 9 km sektoral pada letusan 3 November[cite: 1]."
+  },
+  {
+    "chunk_id": "bnpb_gempa_mitigasi_pra_bencana_003",
+    "disaster_type": "gempa",
+    "source": "buku_saku_gempabumi_dan_tsunami_bmkg.txt",
+    "topic": "langkah_mitigasi_dan_persiapan_sebelum_gempa",
+    "language": "id",
+    "text": "Mitigasi sebelum gempabumi meliputi pengenalan risiko bahwa korban umumnya disebabkan reruntuhan atau kebakaran, bukan gempa itu sendiri[cite: 4]. Persiapan rutin mencakup pengaturan perabotan berat agar dipaku/diikat ke dinding, menyimpan bahan mudah terbakar di tempat aman, serta mematikan air, gas, dan listrik jika tidak digunakan[cite: 4]. Evaluasi lokasi rumah harus terhindar dari bahaya longsor atau rekahan tanah[cite: 4]. Perlengkapan wajib yang harus disiapkan adalah Kotak P3K, Tas Siaga Bencana, senter, radio, makanan suplemen, air mineral, dan mencatat nomor darurat pusat BMKG 021-424 6321 / 021-654 6316[cite: 4]."
+  },
+  {
+    "chunk_id": "bnpb_gempa_respon_saat_dan_pasca_gempa_004",
+    "disaster_type": "gempa",
+    "source": "buku_saku_gempabumi_dan_tsunami_bmkg.txt",
+    "topic": "tindakan_saat_kejadian_dan_prosedur_evakuasi_pasca_gempa",
+    "language": "id",
+    "text": "Saat gempa: Di dalam ruangan, lindungi kepala di bawah meja; di area terbuka, hindari gedung, tiang, dan reklame; saat berkendara, segera keluar dan menjauh dari kendaraan; di pantai, segera menuju tempat tinggi; di pegunungan, hindari lereng rawan longsor[cite: 4]. Pasca gempa: Evakuasi menggunakan tangga biasa (dilarang menggunakan lift), lakukan P3K, periksa kebocoran gas/korsleting listrik, dan jangan masuk bangunan rusak karena risiko gempa susulan[cite: 4]. Informasi resmi hanya bersumber dari kanal BMKG (inatews.bmkg.go.id, www.bmkg.go.id, atau aplikasi InfoBMKG)[cite: 4]. Dampak guncangan dapat dilaporkan melalui aplikasi WRS Mobile atau nomor resmi BMKG[cite: 4]."
+  },
+  {
+    "chunk_id": "bnpb_tsunami_penyebab_dan_karakteristik_005",
+    "disaster_type": "tsunami",
+    "source": "buku_saku_gempabumi_dan_tsunami_bmkg.txt",
+    "topic": "definisi_penyebab_dan_karakteristik_gelombang_tsunami",
+    "language": "id",
+    "text": "Tsunami adalah perpindahan badan air akibat perubahan dasar laut secara tiba-tiba[cite: 4]. Penyebab utama meliputi: 1. Gempa Tektonik bawah laut (kedalaman < 60 km, Magnitudo > 7); 2. Letusan Gunung Berapi besar; 3. Longsor Bawah Laut (Tsunamic Submarine Landslide); 4. Hantaman Meteor (jarang terjadi)[cite: 4]. Karakteristik tsunami: ketinggian gelombang bertambah signifikan saat mendekati daratan meski kecepatannya berkurang dibanding di tengah laut[cite: 4]. Daratan berbentuk teluk akan mengalami tinggi gelombang yang lebih ekstrem dibandingkan garis pantai yang lebar dan terbuka[cite: 4]. Indonesia rawan karena pertemuan Lempeng Eurasia (Tenggara), Indo-Australia (Utara Timur Laut), dan Pasifik (Barat Daya)[cite: 4]."
+  },
+  {
+    "chunk_id": "bnpb_tsunami_langkah_tanggap_dan_edukasi_006",
+    "disaster_type": "tsunami",
+    "source": "buku_saku_gempabumi_dan_tsunami_bmkg.txt",
+    "topic": "tiga_langkah_tanggap_tsunami_dan_target_edukasi",
+    "language": "id",
+    "text": "Tiga Langkah Tanggap Tsunami: 1. Tanggap Gempa (waspadai gempa kuat/lama, jauhi pantai); 2. Tanggap Peringatan (pahami status AWAS untuk evakuasi segera, SIAGA untuk evakuasi, dan WASPADA untuk menjauhi pantai); 3. Tanggap Evakuasi (ikuti jalur dan rambu evakuasi ke tempat tinggi)[cite: 4]. Tanda lokal meliputi bunyi sirine, kentongan, atau isyarat warga yang disepakati[cite: 4]. Buku saku ini ditargetkan untuk siswa SMA guna membangun ketangguhan sejak dini[cite: 4]. Petugas Pemda dapat memantau lebih lanjut via aplikasi BMKG menggunakan kredensial khusus (User: pemda, Password: pemda-bmkg)[cite: 4]."
+  },
+  {
+    "chunk_id": "bnpb_tsunami_mekanisme_dan_karakteristik_gelombang_008",
+    "disaster_type": "tsunami",
+    "source": "buku_saku_mengenal_gempabumi_tsunami_bmkg.txt",
+    "topic": "mekanisme_pemicu_dan_perubahan_karakteristik_tsunami",
+    "language": "id",
+    "text": "Selain gempa tektonik (M > 7, kedalaman < 60 km), tsunami dapat dipicu oleh letusan gunung berapi besar, longsor bawah laut (Tsunamic Submarine Landslide), dan hantaman meteor yang mengubah volume air secara tiba-tiba[cite: 4]. Karakteristik gelombang tsunami berubah saat mendekati pesisir: kecepatannya berkurang namun ketinggiannya bertambah signifikan[cite: 4]. Efek topografi daratan juga berpengaruh, di mana tsunami akan jauh lebih tinggi saat menghantam area berbentuk teluk dibandingkan garis pantai yang lebar dan terbuka[cite: 4]."
+  },
+  {
+    "chunk_id": "bnpb_tsunami_peringatan_lokal_dan_kredensial_009",
+    "disaster_type": "tsunami",
+    "source": "buku_saku_mengenal_gempabumi_tsunami_bmkg.txt",
+    "topic": "sarana_peringatan_tradisional_dan_kredensial_pemantauan",
+    "language": "id",
+    "text": "Warga diinstruksikan segera evakuasi mandiri jika mendengar tanda bahaya lokal seperti bunyi sirine, kentongan darurat, atau isyarat lain yang telah disepakati masyarakat setempat[cite: 4]. Buku saku ini disusun khusus sebagai media edukasi bagi siswa SMA untuk penguatan kesiapsiagaan[cite: 4]. Untuk pemantauan teknis lebih lanjut oleh Pemerintah Daerah, aplikasi BMKG tertentu dapat diakses menggunakan kredensial khusus: User: pemda, Password: pemda-bmkg[cite: 4]. Pelaporan dampak guncangan tetap dilakukan melalui kanal resmi BMKG Pusat di 021-424 6321 atau aplikasi WRS Mobile[cite: 4]."
+  },
+  {
+    "chunk_id": "bnpb_geologi_ancaman_geologi_indonesia_001",
+    "disaster_type": "geologi",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "ancaman_geologi_indonesia",
+    "language": "id",
+    "text": "Indonesia terletak di antara tiga lempeng tektonik aktif, yaitu Lempeng Eurasia, Lempeng Indo-Australia, dan Lempeng Pasifik. Kondisi ini menyebabkan Indonesia sangat rentan terhadap bencana geologi: Gempa Bumi: Tersebar di hampir seluruh wilayah Indonesia kecuali Kalimantan bagian barat, tengah, dan selatan. Tsunami: Dipicu oleh gempa bumi dasar laut, longsoran bawah laut, atau letusan gunungapi di laut. Letusan Gunungapi: Bagian dari jalur Ring of Fire.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_hidrometeorologi_ancaman_hidrometeorologi_indonesia_002",
+    "disaster_type": "hidrometeorologi",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "ancaman_hidrometeorologi_indonesia",
+    "language": "id",
+    "text": "Berdasarkan letak geografis di garis khatulistiwa dan iklim tropis, Indonesia memiliki dua musim yang memicu ancaman berbeda: Musim Penghujan (Curah Hujan Tinggi): Memicu bencana puting beliung, banjir, dan tanah longsor. Musim Kemarau (Curah Hujan Rendah): Memicu bencana kekeringan serta kebakaran hutan dan lahan (Karhutla). Pola Curah Hujan meliputi Pola Monsun (Puncak Desember-Februari) di Sumatera timur, Jawa, Bali, NTB, NTT, Kalimantan selatan; Pola Ekuatorial (Puncak Maret & Oktober) di pantai barat Sumatera, Kalimantan Barat/Utara, Sulawesi, Papua; serta Pola Lokal (Puncak Juni-Agustus) di Maluku dan Papua Barat.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_sistem_penanggulangan_bencana_003",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sistem_penanggulangan_bencana",
+    "language": "id",
+    "text": "Sesuai Undang-Undang Nomor 24 Tahun 2007, pemerintah pusat dan daerah bertanggung jawab atas penyelenggaraan penanggulangan bencana. BNPB adalah penanggung jawab tingkat nasional, sementara BPBD di tingkat provinsi dan kabupaten/kota. Pos Komando (Posko) Tanggap Darurat dibentuk saat masa tanggap darurat (Perka BNPB No. 3 Tahun 2016) dengan struktur utama meliputi Komandan dan Wakil Komandan; Sekretariat dan Bagian Perencanaan; Bagian Data, Informasi, dan Humas; serta Bidang Operasi dan Perwakilan Mitra Kerja.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_gempa_sop_prabencana_gempa_004",
+    "disaster_type": "gempa",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_gempa_bumi",
+    "language": "id",
+    "text": "Gempa Bumi adalah peristiwa berguncangnya bumi akibat tumbukan antar lempeng, aktivitas sesar (patahan), aktivitas gunungapi, atau runtuhan batuan. Langkah Prabencana: Menyiapkan rencana penyelamatan diri; Melakukan latihan (merunduk, melindungi kepala, berpegangan); Menyiapkan Tas Siaga Bencana (TSB) dan alat pemadam kebakaran; Membangun rumah tahan gempa.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_gempa_sop_saat_dan_pasca_gempa_005",
+    "disaster_type": "gempa",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_gempa_bumi",
+    "language": "id",
+    "text": "Saat Gempa: Di dalam bangunan, berlindung di bawah meja, jauhi jendela kaca, lindungi kepala, matikan kompor dan listrik. Di luar bangunan, menuju lapangan terbuka, jauhi tiang, pohon, atau gedung. Di dalam lift, jangan gunakan lift; jika terjebak tekan semua tombol. Di dalam mobil, berhenti di bahu jalan kiri, jauhi persimpangan dan jembatan. Pascabencana: Waspada gempa susulan, periksa potensi kebakaran (api/gas), dan jauhi daerah rawan longsor atau tebing.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_tsunami_sop_tsunami_lengkap_006",
+    "disaster_type": "tsunami",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_tsunami",
+    "language": "id",
+    "text": "Tsunami adalah rangkaian gelombang laut kecepatan tinggi (>900 km/jam) akibat gempa dasar laut atau letusan gunungapi. Prabencana: Kenali tanda alam (gempa kuat/lama, air laut surut tiba-tiba, bunyi gemuruh, ikan terdampak) dan pahami jalur evakuasi. Saat Bencana: Segera lari ke tempat tinggi jika mendengar sirine, jangan kembali ke pantai sebelum aman. Jika di kapal, tetap berlayar ke laut dalam. Pascabencana: Jauhi instalasi listrik/gas, waspadai kontaminasi air.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_longsor_sop_tanah_longsor_007",
+    "disaster_type": "longsor",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_tanah_longsor",
+    "language": "id",
+    "text": "Tanah Longsor disebabkan curah hujan tinggi, lereng terjal, getaran, dan penggundulan hutan. Prabencana: Buat drainase tepat agar air tidak meresap ke lereng, tanam pohon berakar dalam (Nangka, Durian, Pete), jangan membangun rumah permanen di atas tebing. Saat Bencana: Segera lari menjauhi arah datangnya longsoran atau suara gemuruh. Pascabencana: Waspadai longsor susulan jika hujan turun kembali.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_gunungapi_karakteristik_bahaya_erupsi_008",
+    "disaster_type": "gunungapi",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_erupsi_gunungapi",
+    "language": "id",
+    "text": "Bahaya Erupsi meliputi: 1. Awan Panas (300-700°C, kecepatan >70 km/jam). 2. Lava (suhu >10.000°C). 3. Gas Beracun (CO2, SO2, H2S, HCl, HF). 4. Lontaran Material (batu pijar >10 cm, suhu 200°C). 5. Hujan Abu halus mengikuti angin. 6. Lahar (banjir material vulkanik). Tingkat Status: Level IV (Awas), Level III (Siaga), Level II (Waspada), Level I (Normal).[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_gunungapi_penyelamatan_erupsi_009",
+    "disaster_type": "gunungapi",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_erupsi_gunungapi",
+    "language": "id",
+    "text": "Langkah Penyelamatan Erupsi: Saat Bencana, gunakan masker/kain basah, kacamata pelindung (jangan lensa kontak), pakaian tertutup (lengan panjang, celana panjang, topi), jauhi lembah sungai jalur lahar. Pascabencana: Bersihkan atap rumah dari timbunan abu agar tidak roboh.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_banjir_sop_manajemen_banjir_010",
+    "disaster_type": "banjir",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_banjir",
+    "language": "id",
+    "text": "SOP Banjir: Prabencana meliputi pemahaman istilah Siaga I-IV, simpan dokumen di tempat tinggi, ketahui rute evakuasi. Saat Bencana: Matikan listrik, cabut alat elektronik, evakuasi ke tempat tinggi, jangan berjalan/menyetir di arus air. Pascabencana: Waspadai instalasi listrik dan binatang berbisa (ular), bersihkan lingkungan dan lakukan PSN (Pemberantasan Sarang Nyamuk).[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_puting_beliung_sop_cuaca_ekstrem_011",
+    "disaster_type": "puting_beliung",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_puting_beliung",
+    "language": "id",
+    "text": "Puting Beliung ditandai dengan udara panas dan munculnya awan gelap tebal (Cumulonimbus). Saat Bencana: Masuk ke bangunan kokoh, tutup dan kunci jendela/pintu, matikan listrik. Hindari tiang listrik, papan reklame, dan pohon besar. Jika berada di luar ruangan, segera membungkuk dan peluk lutut ke dada untuk perlindungan maksimal."
+  },
+  {
+    "chunk_id": "bnpb_kekeringan_sop_manajemen_air_012",
+    "disaster_type": "kekeringan",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_kekeringan",
+    "language": "id",
+    "text": "SOP Kekeringan mencakup langkah Prabencana: Menjaga sumber air, menanam pohon, membuat waduk/embung/tandon air hujan, serta penggunaan Mulsa di pertanian untuk menjaga kelembapan tanah. Saat Bencana: Atur jadwal penggunaan air secara ketat, matikan keran jika tidak dipakai, dan segera melapor jika membutuhkan bantuan distribusi air bersih.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_karhutla_sop_dan_indikator_udara_013",
+    "disaster_type": "karhutla",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "sop_kebakaran_hutan_dan_lahan",
+    "language": "id",
+    "text": "Indikator Kualitas Udara (PM10): 0-50 (Baik), 50-150 (Sedang), 150-250 (Tidak Sehat), 250-350 (Sangat Tidak Sehat), >350 (Berbahaya). Pencegahan: Jangan membakar sampah saat angin kencang; jarak minimal pembakaran 50 kaki dari bangunan dan 500 kaki dari hutan. Saat Bencana: Tetap di dalam ruangan, gunakan masker N95, nyalakan AC/filter udara, dan perbanyak minum air putih.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_rencana_darurat_keluarga_014",
+    "disaster_type": "umum",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "kesiapsiagaan_keluarga",
+    "language": "id",
+    "text": "BNPB menetapkan 26 April sebagai Hari Kesiapsiagaan Bencana (HKB). Rencana Darurat Keluarga meliputi: 1. Analisis ancaman sekitar rumah. 2. Identifikasi titik kumpul dan rute evakuasi. 3. Daftar nomor kontak penting keluarga. 4. Lokasi kontrol listrik, gas, dan air. 5. Identifikasi anggota rentan seperti anak-anak, lansia, ibu hamil, dan penyandang disabilitas.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_tas_siaga_bencana_015",
+    "disaster_type": "umum",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "tas_siaga_bencana",
+    "language": "id",
+    "text": "Tas Siaga Bencana (TSB) disiapkan untuk bertahan minimal 3 hari. Isi utama: Dokumen penting (ijazah, akta), air minum, makanan tahan lama (biskuit, abon), kotak P3K, masker, senter, baterai cadangan, peluit, korek api, radio/ponsel, powerbank, pakaian ganti, jas hujan, peralatan sanitasi, dan uang tunai secukupnya.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_mitigasi_inklusif_016",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "mitigasi_disabilitas_dan_hewan",
+    "language": "id",
+    "text": "Mitigasi Disabilitas: Libatkan kerabat dalam latihan dan petakan kebutuhan khusus (fisik, sensorik, mental). Mitigasi Hewan Peliharaan: Gunakan kalung identitas, siapkan Tas Darurat Hewan (makanan/air 3-5 hari, P3K hewan, kandang), dan tempel stiker 'Peringatan Hewan Peliharaan' di jendela rumah untuk informasi petugas evakuasi.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_benteng_alam_vegetasi_017",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "mitigasi_vegetasi",
+    "language": "id",
+    "text": "Mitigasi Vegetasi sebagai benteng alam: Vetiver (Akar Wangi) untuk menahan longsor/banjir (akar hingga 5 meter); Kelapa untuk penghalang tsunami dan abrasi; Beringin untuk menahan erosi dan cadangan air; Cemara Laut untuk menahan ombak; Bakau (Mangrove) untuk mereduksi energi tsunami dan pasang air laut.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_b3_klasifikasi_bahan_berbahaya_018",
+    "disaster_type": "non_alam",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "klasifikasi_b3",
+    "language": "id",
+    "text": "Klasifikasi B3 dibagi menjadi 9 kelas: Kelas 1 (Explosive), Kelas 2 (Gases), Kelas 3 (Flammable Liquids), Kelas 4 (Flammable Solids), Kelas 5 (Oxidizers), Kelas 6 (Poison & Infectious), Kelas 7 (Radioactive), Kelas 8 (Corrosives), Kelas 9 (Miscellaneous).[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_kontak_darurat_dan_aplikasi_019",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "kontak_dan_aplikasi_siaga",
+    "language": "id",
+    "text": "Kontak Darurat: Pusdalops BNPB (0812-1237575), Ambulans (118/119), Polisi (110), Damkar (113), SAR (115), Darurat Umum (112). Aplikasi Kesiapsiagaan: inaRISK (risiko bencana), MAGMA Indonesia (gunungapi), Info BMKG (cuaca/gempa), Siaga Bencana PMI, BNPB E-Tangguh, dan Life360.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_direktori_bpbd_dan_singkatan_020",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "direktori_bpbd_dan_istilah",
+    "language": "id",
+    "text": "Dokumen mencakup kontak BPBD seluruh provinsi di Indonesia (Sumatera, Jawa, Bali, Kalimantan, Sulawesi, hingga Papua) untuk koordinasi daerah. Istilah penting: BNPB, BPBD, PVMBG (Vulkanologi), BMKG (Meteorologi), KRB (Kawasan Rawan Bencana), dan Pusdalops (Pusat Pengendalian Operasi). Data kontak mencakup alamat fisik, nomor telepon, WA, dan email resmi instansi.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_direktori_bpbd_sumatera_banten_021",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "kontak_bpbd_provinsi_sumatera_banten",
+    "language": "id",
+    "text": "Kontak BPBD Wilayah Sumatera & Banten: 1. Aceh: Banda Aceh, Telp: 0651-34783, WA: 0813-60669111. 2. Sumut: Medan, Telp: 061-8468469, WA: 0853-59000878. 3. Sumbar: Padang, Telp: 0751-890720. 4. Jambi: Telp: 0741-670689. 5. Riau: Pekanbaru, Telp: 0761-855734. 6. Bengkulu: Telp: 0736-349674. 7. Sumsel: Palembang, Telp: 0711-7353311. 8. Kep. Riau: Tanjung Pinang, Telp: 0771-315977. 9. Lampung: Bandar Lampung, Telp: 0721-240766, WA: 0852-6905-4307. 10. Babel: Pangkal Pinang, Telp: 0717-438865. 11. Banten: Serang, Telp: 0254-8243072, WA: 0877-7254-2700.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_direktori_bpbd_sulawesi_nt_maluku_papua_023",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "kontak_bpbd_provinsi_timur_indonesia",
+    "language": "id",
+    "text": "Kontak BPBD Wilayah Sulawesi, Nusa Tenggara, Maluku, & Papua: 1. Sulsel: Makassar, Telp: 0411-312523. 2. Sulteng: Palu, Telp: 0451-456824. 3. Sulbar: Mamuju, Telp: 0426-22058. 4. Sultra: Kendari, Telp: 0401-3191617. 5. Sulut: Manado, Telp: 0431-844095. 6. Gorontalo: Telp: 0435-882143. 7. NTB: Mataram, Telp: 0370-646972. 8. NTT: Kupang, Telp: 0380-832617. 9. Malut: Sofifi, Telp: 0921-31327656. 10. Maluku: Ambon, Telp: 0911-316042, WA: 0822-4894-5168. 11. Papua Barat: Manokwari, Telp: 0986-214093, WA: 0823-9946-3564. 12. Papua: Jayapura, Telp: 0967-588384, WA: 0813-3305-5004.[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_daftar_singkatan_teknis_024",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "daftar_singkatan_penanggulangan_bencana",
+    "language": "id",
+    "text": "Daftar Singkatan Teknis: BNPB (Badan Nasional Penanggulangan Bencana), BMKG (Badan Meteorologi, Klimatologi, dan Geofisika), BNPP/Basarnas (Badan Nasional Pencarian dan Pertolongan), BPBD (Badan Penanggulangan Bencana Daerah), HKB (Hari Kesiapsiagaan Bencana), KRB (Kawasan Rawan Bencana), OPD (Organisasi Perangkat Daerah), PMI (Palang Merah Indonesia), Polri (Polisi Republik Indonesia), Posko (Pos Komando), Pusdalops (Pusat Pengendalian Operasi), PVMBG (Pusat Vulkanologi dan Mitigasi Bencana Geologi), SOP (Standard Operating Procedure), TNI (Tentara Nasional Indonesia).[cite: 1]"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_pesan_kunci_drm_001",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "pesan_kunci_dan_tujuan_drm",
+    "language": "id",
+    "text": "Manajemen Risiko Bencana (Disaster Risk Management/DRM) merupakan area penting untuk mengelola risiko yang timbul akibat perubahan iklim. Pesan kunci dalam materi ini meliputi: Wilayah Asia Tenggara dan Pasifik sangat rentan terhadap cuaca ekstrem, peristiwa iklim, dan bencana, dengan sejarah dampak signifikan pada manusia dan masyarakat. Manajemen risiko bencana adalah proses terstruktur untuk meningkatkan ketahanan (resilience). Proses internasional mengikuti Strategi Internasional PBB untuk Pengurangan Risiko Bencana, yaitu Hyogo Framework for Action. Sistem peringatan dini (early warning) dan sistem respons terbukti efektif dalam meminimalisir dampak. Kerentanan di wilayah ini berasal dari berbagai faktor alam dan aktivitas manusia."
+  },
+  {
+    "chunk_id": "bnpb_siklon_dampak_kesehatan_siklon_003",
+    "disaster_type": "siklon",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "dampak_kesehatan_siklon",
+    "language": "id",
+    "text": "Siklon dikaitkan dengan berbagai efek kesehatan. Frekuensi relatif efek kesehatan yang diperkirakan meliputi: Cedera Remuk (Crush Injury) sangat sering terjadi (++); Tenggelam (Drowning) sangat sering terjadi (++); Cedera Lainnya meliputi cedera kepala, asfiksia, cedera tulang terisolasi, cedera jaringan lunak kulit, dan luka bakar (+). Masalah Medis & Psikologis mencakup asma/emfisema, kelaparan, tetanus, infeksi luka, dan penyakit psikologis (+). Dampak ini memerlukan sistem kesiapsiagaan yang matang seperti yang dikembangkan di Bangladesh sejak 1970-an melalui Cyclone Preparedness Program (CPP)."
+  },
+  {
+    "chunk_id": "bnpb_siklon_kesiapsiagaan_bangladesh_004",
+    "disaster_type": "siklon",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "pengalaman_kesiapsiagaan_bangladesh",
+    "language": "id",
+    "text": "Bangladesh telah mengembangkan sistem kesiapsiagaan sejak tahun 1970-an: Cyclone Preparedness Program (1972) merupakan kemitraan antara pemerintah dan Bangladesh Red Crescent Society untuk mentransmisikan peringatan melalui siaran radio dan penggunaan bendera berwarna di tempat umum. Multipurpose Cyclone Shelter Project: Proyek pembangunan tempat berlindung massal pasca siklon 1991 yang menewaskan 138.000 jiwa. Saat ini tempat penampungan memiliki kapasitas ruang untuk sekitar 2,8 juta orang (7% dari populasi pesisir), namun banyak fasilitas yang dilaporkan tidak berfungsi dengan baik."
+  },
+  {
+    "chunk_id": "bnpb_iklim_metode_pemetaan_bahaya_005",
+    "disaster_type": "iklim",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "pemetaan_bahaya_iklim_ganda",
+    "language": "id",
+    "text": "Penilaian kerentanan dilakukan dengan menggabungkan peta bahaya iklim, peta sensitivitas, dan peta kapasitas adaptif. Indeks Kerentanan Perubahan Iklim menggunakan skala 0 (terendah) hingga 1 (tertinggi) berdasarkan: 1. Catatan historis bahaya iklim (siklon tropis, banjir, tanah longsor, kekeringan, kenaikan permukaan laut). 2. Kepadatan populasi sebagai proksi sensitivitas manusia. 3. Sensitivitas ekologis (wilayah kaya biodiversitas dianggap lebih rentan). 4. Indeks kapasitas adaptif (sosio-ekonomi, teknologi, dan infrastruktur). Pemetaan ini digunakan untuk mengidentifikasi titik panas (hotspots) di Asia Tenggara."
+  },
+  {
+    "chunk_id": "bnpb_teknologi_atribut_komponen_ews_010",
+    "disaster_type": "sistem_peringatan_dini",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "atribut_dan_komponen_ews",
+    "language": "id",
+    "text": "EWS yang efektif harus memberikan peringatan tepat waktu, terjangkau (affordable), memerlukan pelatihan minimal, robust, dan mudah dimodifikasi sesuai perubahan iklim. Komponen Utama EWS meliputi: 1. Identifikasi dan prakiraan kondisi cuaca. 2. Prediksi kemungkinan dampak kesehatan. 3. Rencana respons yang efektif dan tepat waktu. 4. Pemantauan dan evaluasi sistem secara berkelanjutan. 5. Rencana komunikasi. Rencana respons harus mencakup aspek 'Dimana', 'Kapan' (termasuk thresholds), 'Apa' (intervensi spesifik), 'Bagaimana', dan 'Kepada Siapa'."
+  },
+  {
+    "chunk_id": "bnpb_kesehatan_layanan_kesehatan_mental_011",
+    "disaster_type": "pasca_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "layanan_kesehatan_mental_pasca_bencana",
+    "language": "id",
+    "text": "Kesehatan mental sering diabaikan namun dampaknya bisa bertahan berbulan-bulan setelah bencana. Struktur Layanan di Bangladesh mencakup: Level 1 adalah Layanan Kesehatan Komunitas. Level 2 adalah Perawatan Kesehatan Mental melalui Perawatan Kesehatan Primer. Level 3 merupakan Perawatan dan Dukungan di luar Sektor Kesehatan Formal. Level 4 adalah Perawatan Mandiri dan Keluarga. Kerangka ini penting karena pendanaan pasca bencana seringkali lebih diutamakan dibandingkan pencegahan.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_lintas_sektor_dan_pencegahan_021",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "komponen_lintas_sektor_dan_efektivitas_pencegahan",
+    "language": "id",
+    "text": "Keberhasilan program DRM sangat bergantung pada tiga elemen lintas sektor (cross-cutting issues): Komunikasi Efektif, Koneksi Multi-Level (lokal ke nasional), dan Pertukaran & Pembelajaran (lessons learned). Selain itu, tindakan pencegahan yang efektif di Indonesia dan Nepal sering kali bersifat intangibel namun vital, seperti: Pemeliharaan rutin (misal: mengecat jembatan untuk cegah korosi), investasi intangibel (pendataan struktur bangunan tua/rusak), serta integrasi infrastruktur (pembuatan tanggul/tanggul sungai). Langkah-langkah ini memperkuat ketahanan komunitas secara menyeluruh."
+  },
+  {
+    "chunk_id": "bnpb_kesehatan_kerangka_mental_health_akhir_022",
+    "disaster_type": "pasca_bencana",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "kerangka_kerja_layanan_kesehatan_mental_detail",
+    "language": "id",
+    "text": "Framework pemberian dukungan psikososial pasca bencana di Bangladesh diadaptasi dari model WHO pasca tsunami Samudra Hindia 2004. Kerangka kerja ini memiliki karakteristik khusus: Berbasis komunitas (community-based), mencakup komponen medis dan non-klinis, serta didesain secara khusus agar mudah diakses oleh kelompok rentan seperti perempuan dan kaum miskin[cite: 1]. Penutupan data entitas global mencakup referensi URL tambahan seperti Benfield Hazard Research Center (http://drought.mssl.ucl.ac.uk) dan African Union’s Continental EWS untuk pemantauan konflik dan kesehatan[cite: 1].",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "bnpb_banjir_kesiapsiagaan_pra_bencana_002",
+    "disaster_type": "banjir",
+    "source": "panduan_banjir_dki_jakarta_2020.txt",
+    "topic": "kesiapsiagaan_dan_tas_siaga_bencana",
+    "language": "id",
+    "text": "Langkah antisipasi sebelum banjir meliputi pemetaan zona rawan, pemahaman jalur evakuasi, digitalisasi dokumen berharga, dan penyiapan Tas Siaga Bencana (TSB)[cite: 2]. Isi TSB harus mencakup: pakaian dan perlengkapan ibadah untuk 3 hari, dokumen pribadi dalam plastik kedap air, obat-obatan P3K, makanan tahan lama, air mineral, uang tunai, senter, peluit, masker, handsanitizer, dan powerbank[cite: 2]. Masyarakat dilarang membuang sampah di saluran air atau mendirikan bangunan di bantaran sungai[cite: 2]. Saat air mulai menggenang, segera amankan barang ke tempat tinggi, matikan listrik, dan evakuasi dengan memprioritaskan kelompok rentan (orang sakit, disabilitas, anak-anak, ibu hamil, dan lansia)[cite: 2]."
+  },
+  {
+    "chunk_id": "bnpb_banjir_pemulihan_dan_peran_rt_rw_003",
+    "disaster_type": "banjir",
+    "source": "panduan_banjir_dki_jakarta_2020.txt",
+    "topic": "prosedur_pemulihan_dan_manajemen_rt_rw",
+    "language": "id",
+    "text": "Setelah banjir surut, masyarakat harus memastikan keamanan lingkungan sebelum kembali ke rumah, menggunakan alas kaki untuk menghindari benda tajam, serta mensterilisasi rumah dari endapan lumpur[cite: 2]. Waspadai instalasi listrik yang basah dan binatang berbisa[cite: 2]. Pengurus RT/RW berperan dalam tiga tahap: 1) Antisipasi (grup komunikasi dan pembersihan saluran), 2) Saat Banjir (memandu evakuasi dan distribusi logistik), serta 3) Pemulihan (koordinasi pembersihan dan pendataan korban)[cite: 2]. Jika memerlukan bantuan evakuasi aparat, pengurus dapat menghubungi Call Center 112[cite: 2]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_data_teknis_geologi_dan_rekapitulasi_bencana_011",
+    "disaster_type": "multi_bencana",
+    "source": "manajemen_rehabilitasi_atensi_kbk.txt",
+    "topic": "data_teknis_geologi_dan_rekapitulasi_bencana",
+    "language": "id",
+    "text": "Analisis bahaya longsor menggunakan klasifikasi lereng van Zuidam: 0-15% (landai/miring), 16-25% (miring/curam), 26-45% (curam), dan > 45% (sangat curam/prioritas longsor)[cite: 2]. Sejarah gempa Bandung mencakup kejadian tahun 1844, 1910, 1972, 1979, dan gempa M 4,9 pada 18 September 2024 yang merusak ribuan rumah[cite: 2]. Rekapitulasi kerusakan fasilitas nasional 2024 mencatat: 612 satuan pendidikan (akibat cuaca ekstrem), 415 tempat ibadat (akibat gempa), 82 fasilitas kesehatan, dan 445 jembatan (397 unit rusak akibat banjir)[cite: 2]. Tren IRB Jawa Timur menunjukkan penurunan dari 152,43 (2015) menjadi 116,91 (2023)[cite: 2]. Kontak Darurat: BMKG (021-424 6321), inatews.bmkg.go.id, inarisk (BNPB)[cite: 2]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_data_teknis_geologis_015",
+    "disaster_type": "multi_bencana",
+    "source": "Pedoman Operasional Asistensi Rehabilitasi Sosial (ATENSI) Korban Bencana dan Kedaruratan.txt",
+    "topic": "parameter_teknis_lereng_dan_rekapitulasi_kerusakan_2024",
+    "language": "id",
+    "text": "Klasifikasi kemiringan lereng van Zuidam mendefinisikan area prioritas sumber longsoran pada kemiringan > 45% (sangat curam), sementara 26-45% adalah curam[cite: 2]. Rekapitulasi kerusakan fasilitas nasional tahun 2024 mencatat 612 unit satuan pendidikan rusak (297 akibat cuaca ekstrem), 415 tempat ibadat (267 akibat gempabumi), 82 fasilitas kesehatan (27 akibat erupsi gunungapi), dan 445 jembatan (397 akibat banjir)[cite: 2]. Sejarah gempabumi besar di Bandung tercatat pada tahun 1844, 1910, 1972, 1979, serta gempa M 4,9 pada 18 September 2024 yang merusak ribuan rumah di Kertasari dan Pangalengan[cite: 2]. Tren IRB Jawa Timur menunjukkan penurunan konsisten dari 152,43 (2015) menjadi 116,91 (2023)[cite: 2]."
+  },
+  {
+    "chunk_id": "bnpb_kedaruratan_medis_perawatan_luka_007",
+    "disaster_type": "kedaruratan_medis",
+    "source": "pertolongan_pertama.txt",
+    "topic": "perawatan_luka_terbuka_tertutup_dan_benda_menancap",
+    "language": "id",
+    "text": "Luka terbuka dirawat dengan membersihkan kotoran, menghentikan perdarahan, serta menutup luka menggunakan kasa steril dan pembalut[cite: 5]. Luka tertutup atau memar dirawat dengan metode istirahat, kompres dingin, dan balut tekan[cite: 5]. Jika terdapat benda tajam yang menancap, benda tersebut dilarang dicabut kecuali jika menancap di pipi dan menghalangi jalan nafas[cite: 5]. Prosedur yang benar adalah menstabilkan benda menancap menggunakan bantalan tebal di sekelilingnya agar benda tidak bergeser dan memperparah cedera selama proses evakuasi ke fasilitas kesehatan[cite: 5]."
+  },
+  {
+    "chunk_id": "bnpb_kedaruratan_medis_triage_start_013",
+    "disaster_type": "kedaruratan_medis",
+    "source": "pertolongan_pertama.txt",
+    "topic": "sistem_triage_start_untuk_korban_masal",
+    "language": "id",
+    "text": "Triage metode START (Simple Triage And Rapid Treatment) membagi korban masal dalam empat label warna: HIJAU untuk korban yang masih mampu berjalan[cite: 5]. Label KUNING diberikan untuk korban stabil yang perawatannya bisa ditunda[cite: 5]. Label MERAH untuk korban kritis dengan gangguan pernafasan, sirkulasi, atau status mental yang harus segera ditangani[cite: 5]. Label HITAM untuk korban yang tidak bernafas setelah jalan nafas dibuka (meninggal)[cite: 5]. Sistem seleksi ini bertujuan untuk memberikan prioritas penanganan medis agar dapat menyelamatkan korban sebanyak-banyaknya dalam situasi bencana dengan sumber daya terbatas[cite: 5]."
+  },
+  {
+    "chunk_id": "bnpb_kedaruratan_medis_tenggelam_dan_tandu_020",
+    "disaster_type": "kedaruratan_medis",
+    "source": "pertolongan_pertama.txt",
+    "topic": "pertolongan_di_air_dan_jenis_tandu_evakuasi",
+    "language": "id",
+    "text": "Urutan penyelamatan di air adalah Raih, Lempar, Dayung, dan Renang (hanya oleh penolong terlatih)[cite: 5]. Nafas buatan harus diberikan sedini mungkin di air tanpa mencoba mengeluarkan air dari paru-paru[cite: 5]. Untuk evakuasi, Tandu Scoop ideal untuk ruang sempit, sedangkan Tandu Kursi digunakan menuruni tangga[cite: 5]. Papan spinal panjang digunakan untuk cedera seluruh tubuh dengan kecurigaan spinal, sementara papan pendek digunakan untuk korban yang terjepit dalam posisi duduk seperti di dalam mobil[cite: 5]. Pemilihan alat transportasi yang tepat sangat menentukan keselamatan tulang punggung penderita selama proses evakuasi[cite: 5]."
+  },
+  {
+    "chunk_id": "bnpb_kedaruratan_medis_ics_bencana_023",
+    "disaster_type": "kedaruratan_medis",
+    "source": "pertolongan_pertama.txt",
+    "topic": "sistem_komando_insiden_dan_sektor_fungsional",
+    "language": "id",
+    "text": "Incident Command System (ICS) dalam bencana masal terdiri dari: Sektor Ekstrikasi (pembebasan korban terjepit), Sektor Triage (pemilahan prioritas), Sektor Perawatan (perawatan medis lanjutan), dan Sektor Transportasi (pengaturan ambulans ke RS)[cite: 5]. Sektor Staging mengoordinasikan kendaraan dan sarana bantuan, sementara Sektor Pendukung menyediakan tenaga serta prasarana tambahan[cite: 5]. Koordinasi antar-sektor ini memastikan penanganan korban bencana berjalan secara efektif dan efisien tanpa adanya tumpang tindih peran di lokasi kejadian[cite: 5]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_statistik_kejadian_2024_002",
+    "disaster_type": "multi_bencana",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "rekapitulasi_statistik_dan_dampak_bencana_2024",
+    "language": "id",
+    "text": "BNPB mencatat 3.472 kejadian bencana sepanjang 2024, didominasi hidrometeorologi (99,34%)[cite: 3]. Rincian kejadian: Banjir (1.420), Karhutla (973), Cuaca Ekstrem (733), Tanah Longsor (207), Kekeringan (89), Gelombang Pasang/Abrasi (27), Gempabumi (15), dan Erupsi Gunungapi (8)[cite: 3]. Dampak korban jiwa meliputi 540 meninggal, 63 hilang, 11.531 luka-luka, serta 8.136.271 orang menderita/mengungsi[cite: 3]. Kerusakan rumah mencapai 80.304 unit (13.104 rusak berat, 15.295 rusak sedang, 51.905 rusak ringan) dan 1.237.372 rumah terendam banjir[cite: 3]. Fasilitas publik yang terdampak meliputi 612 satuan pendidikan, 415 tempat ibadat, 82 fasilitas kesehatan, 89 kantor, dan 445 jembatan[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_sebaran_wilayah_2024_003",
+    "disaster_type": "multi_bencana",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "sebaran_spasial_bencana_nasional_2024",
+    "language": "id",
+    "text": "Bencana 2024 terjadi di 454 kabupaten/kota (88% dari total nasional) dengan distribusi per pulau: Jawa (37%), Sumatera (35%), Sulawesi (10%), Kalimantan (9%), Bali & Nusa Tenggara (5%), serta Maluku & Papua (4%)[cite: 3]. Provinsi dengan kejadian terbanyak adalah Jawa Barat (461 kejadian), Jawa Timur (434), Sumatera Utara (350), Sumatera Selatan (271), dan Jawa Tengah (231)[cite: 3]. Kabupaten Bogor menjadi wilayah paling terdampak di Jawa Barat dengan 136 kejadian (29,5% dari total provinsi)[cite: 3]. Di Sumatera Selatan, Kabupaten Ogan Ilir mencatat 70 kejadian dan Muara Enim 45 kejadian[cite: 3]. Secara umum, meskipun jumlah kejadian menurun dibanding 2023 (5.400 kejadian), dampak korban jiwa pada 2024 meningkat drastis akibat fenomena La Nina dan aktivitas vulkanik eksplosif[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_banjir_lahar_kasus_sumbar_2024_004",
+    "disaster_type": "banjir",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "penanganan_banjir_lahar_dingin_sumatera_barat",
+    "language": "id",
+    "text": "Banjir lahar dingin di Sumatera Barat pada 11 Mei 2024 melanda 26 kecamatan di 6 kabupaten/kota, mengakibatkan 61 meninggal, 10 hilang, dan 7.490 warga mengungsi[cite: 3]. Kerusakan fisik mencakup 151 rumah rusak berat, 550,5 Ha sawah terendam, dan 44 jembatan terdampak[cite: 3]. Arahan Presiden untuk penanganan meliputi normalisasi aliran sungai, peledakan batu besar (demolish) material Gunung Marapi, pembangunan 56 unit Sabo Dam, dan penguatan Early Warning System (EWS) berbasis komunitas di 23 titik[cite: 3]. BNPB menyalurkan Dana Siap Pakai (DSP) senilai Rp3,2 Miliar untuk operasional darurat dan mendukung pemulihan wilayah terdampak lahar dingin tersebut[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_erupsi_gunungapi_lewotobi_laki_laki_005",
+    "disaster_type": "erupsi_gunungapi",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "erupsi_eksplosif_gunung_lewotobi_laki_laki_2024",
+    "language": "id",
+    "text": "Letusan eksplosif Gunung Lewotobi Laki-Laki terjadi pada 3 November 2024 pukul 23.57 WITA, menyebabkan 9 orang meninggal dunia akibat tertimpa batu pijar di Desa Klatanlo[cite: 3]. Lontaran batu pijar melubangi tanah hingga diameter 13 meter dan merusak 2.384 bangunan[cite: 3]. Riwayat status meningkat dari Level II (Desember 2023) hingga Level IV pada Januari dan November 2024[cite: 3]. Rekomendasi zona larangan terjauh mencapai radius 9 km ke arah Barat Daya dan Barat Laut pada 9 November 2024[cite: 3]. BNPB mengimplementasikan dashboard monitoring real-time di gis.bnpb.go.id/lewotobi2024 untuk menyajikan data pengungsi terpilah, kebutuhan kesehatan, dan dampak kerusakan secara akurat[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_banjir_kasus_demak_pemilu_006",
+    "disaster_type": "banjir",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "banjir_demak_dan_operasi_modifikasi_cuaca",
+    "language": "id",
+    "text": "Banjir Demak mulai 5 Februari 2024 dipicu oleh jebolnya 10 tanggul, termasuk dua tanggul Sungai Wulan dengan lebar jebolan hampir 30 meter[cite: 3]. Dampaknya mencakup 29.228 pengungsi dan 25.518 rumah terendam, serta penundaan pemungutan suara di 10 desa yang berujung pada Pemilu Susulan 24 Februari 2024 di 68 TPS[cite: 3]. Penanganan dilakukan melalui Operasi Teknologi Modifikasi Cuaca (TMC) menggunakan pesawat Cessna 208 Caravan untuk menyemai NaCl di awan potensial pada ketinggian 12.000 kaki guna mengalihkan hujan[cite: 3]. Dukungan logistik mencakup 4.800 paket sembako, 6.000 pouch makanan siap saji, 6.600 matras, serta peralatan evakuasi berupa perahu karet dan katamaran[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_manajemen_pentahelix_007",
+    "disaster_type": "multi_bencana",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "strategi_pentahelix_dan_stimulan_rumah_rusak",
+    "language": "id",
+    "text": "BNPB menerapkan konsep Pentahelix (Pemerintah, Masyarakat, Dunia Usaha, Akademisi, Media) dalam penanggulangan bencana[cite: 3]. Mitigasi aktif 2024 meliputi Apel Kesiapsiagaan Megathrust (5 September 2024) di Mentawai, Pandeglang, Pangandaran, dan Cilacap untuk membangun ketangguhan masyarakat pesisir[cite: 3]. Pemerintah juga memberikan stimulan perbaikan rumah pascabencana dengan nilai: Rusak Berat Rp60.000.000, Rusak Sedang Rp30.000.000, dan Rusak Ringan Rp15.000.000[cite: 3]. Pengelolaan data pengungsi dilakukan melalui koordinasi BNPB-BPBD sesuai Perpres No. 39 Tahun 2019 tentang Satu Data Indonesia dan Peraturan BNPB No. 1 Tahun 2023[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_banjir_kasus_ternate_dan_luwu_008",
+    "disaster_type": "banjir",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "banjir_bandang_ternate_dan_banjir_luwu",
+    "language": "id",
+    "text": "Banjir bandang Kota Ternate pada 25 Agustus 2024 mengakibatkan 19 meninggal dan 75 rumah rusak berat akibat akumulasi material vulkanik Gunung Gamalama di hulu sungai[cite: 3]. BNPB memberikan DSP Rp1,5 Miliar dan merencanakan relokasi 100 unit rumah di Kelurahan Jambula[cite: 3]. Di Kabupaten Luwu, banjir dan longsor pada 3 Mei 2024 dengan TMA 100-300 cm menyebabkan 14 meninggal dan 3.000 warga Latimojong terisolir[cite: 3]. Sebanyak 315 rumah rusak berat dan 54.258 rumah terendam di Luwu[cite: 3]. BNPB menyalurkan total DSP Rp2,15 Miliar untuk Pemprov Sulsel dan tujuh kabupaten terdampak guna operasional darurat[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_longsor_kasus_jawa_barat_dan_ibu_009",
+    "disaster_type": "longsor",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "longsor_bandung_barat_dan_mitigasi_gunung_ibu",
+    "language": "id",
+    "text": "Longsor di Cipongkor, Bandung Barat pada 24 Maret 2024 mengakibatkan 8 meninggal dan 120 rumah rusak berat, dipicu hujan deras 4 jam di bidang Gawir Sesar dengan kemiringan 45-67°[cite: 3]. Sementara itu, aktivitas Gunung Ibu (Maluku Utara) meningkat ke Level III pada 8 Mei 2024 dengan kolom abu 6.000 meter[cite: 3]. BNPB memasang instrumen EWS lahar dingin di Gunung Ibu meliputi Sensor Geophone, AWLR, CCTV PTZ, Lidar, dan konektivitas Starlink[cite: 3]. Dampak sektor pertanian di Gunung Ibu sangat signifikan, mencakup 3.883 Ha kebun kelapa, 866 Ha kebun pala, 368 Ha kebun kakao, dan 208 Ha lahan cengkeh[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_gempa_kasus_bandung_dan_bawean_010",
+    "disaster_type": "gempa",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "gempabumi_bandung_garut_dan_pulau_bawean",
+    "language": "id",
+    "text": "Gempa Magnitudo 4,9 melanda Kabupaten Bandung (Kertasari) pada 18 September 2024, menyebabkan 1 meninggal, 11.026 pengungsi, dan kerusakan 6.260 rumah[cite: 3]. Mitigasi dilakukan dengan penguatan bangunan menggunakan kawat cakar ayam[cite: 3]. Gempa Bawean (Maret 2024) merusak 4.679 rumah di Gresik (774 Rusak Berat, 1.332 Rusak Sedang, 2.573 Rusak Ringan) serta 183 tempat ibadah dan 91 sekolah[cite: 3]. Meskipun IRB Jawa Timur turun menjadi 116,91 pada 2023, kategori risiko tetap tinggi[cite: 3]. BNPB menyalurkan bantuan logistik dan peralatan melalui jalur laut untuk mendukung fase tanggap darurat di wilayah kepulauan Bawean tersebut[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_longsor_tambang_dan_sukabumi_011",
+    "disaster_type": "longsor",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "longsor_tambang_ilegal_dan_bencana_sumatera_utara",
+    "language": "id",
+    "text": "Longsor tambang emas ilegal terjadi di Bone Bolango (7 Juli 2024) dengan 27 meninggal dan Solok (September 2024) dengan 13 meninggal akibat minim mitigasi keselamatan[cite: 3]. Di Tana Toraja, longsor pada 13 April 2024 menewaskan 20 orang[cite: 3]. Sumatera Utara mencatat rangkaian bencana mematikan di Deli Serdang dan Karo (23-26 November 2024) yang menewaskan total 36 orang (26 di Deli Serdang, 10 di Karo)[cite: 3]. Sukabumi dan Cianjur melanda 39 kecamatan pada Desember 2024, menyebabkan 10 meninggal dan kerusakan 8.933 rumah serta 1.000 Ha lahan pertanian produktif terdampak[cite: 3]. Di Pesisir Selatan (Sumbar), banjir dan longsor Maret 2024 menewaskan 25 orang dan menyebabkan 76.178 pengungsi[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_kekeringan_distribusi_air_dan_omc_012",
+    "disaster_type": "kekeringan",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "manajemen_kekeringan_dan_teknologi_modifikasi_cuaca",
+    "language": "id",
+    "text": "Kekeringan 2024 berdampak pada 1.480.331 jiwa yang membutuhkan air bersih[cite: 3]. Penyaluran air bersih darurat dilakukan secara masif: Jawa Tengah (39,5 juta liter), Jawa Barat/Bogor (4,4 juta liter), dan Jawa Timur/Ponorogo (2,5 juta liter)[cite: 3]. Teknologi Operasi Modifikasi Cuaca (OMC) digunakan untuk memicu hujan guna mengisi waduk dan mitigasi karhutla di NTB serta memitigasi banjir lahar di Gunung Marapi[cite: 3]. OMC dilakukan dengan penyemaian NaCl dari pesawat Cessna 208 Caravan pada ketinggian 12.000 kaki, dipandu Radar Cuaca BMKG secara real-time untuk memastikan akurasi titik semai[cite: 3]. Program PRB 2024 juga diperkuat dengan penanaman 6.000 mangrove di Pantai Ulee Lheue, Aceh sebagai mitigasi vegetatif[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_erupsi_gunungapi_kesehatan_lewotobi_013",
+    "disaster_type": "erupsi_gunungapi",
+    "source": "statistik_data_bencana_indonesia_2024.txt",
+    "topic": "profil_kesehatan_pengungsi_lewotobi_dan_kontak_darurat",
+    "language": "id",
+    "text": "Selama masa tanggap darurat erupsi Lewotobi (November - Desember 2024), penyakit terbanyak adalah ISPA (akibat abu vulkanik), Dermatitis (sanitasi), serta Gastritis dan Hipertensi pada lansia[cite: 3]. Kasus trauma fisik mencakup luka bakar dan vulnus akibat hantaman batu pijar[cite: 3]. Pihak berwenang menyediakan rujukan cepat melalui BMKG Pusat (021-424 6321) dan aplikasi pendukung seperti InfoBMKG, WRS-BMKG, serta inarisk BNPB[cite: 3]. Portal data gis.bnpb.go.id dan inatews.bmkg.go.id menjadi rujukan utama informasi real-time[cite: 3]. Analisis akhir menunjukkan penuaan infrastruktur drainase dan tanggul menjadi faktor kenaikan dampak bencana meskipun jumlah kejadian fisik menurun[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_gempabumi_rincian_kerusakan_bawean_014",
+    "disaster_type": "gempa",
+    "source": "data_bencana_indonesia_2024.txt",
+    "topic": "rincian_kerusakan_fisik_pulau_bawean",
+    "language": "id",
+    "text": "Berdasarkan rincian teknis pasca gempabumi Bawean Maret 2024 di Kabupaten Gresik, tercatat total 4.679 unit rumah rusak dengan rincian: 774 Rusak Berat (RB), 1.332 Rusak Sedang (RS), dan 2.573 Rusak Ringan (RR). Fasilitas publik yang mengalami kerusakan meliputi 183 tempat ibadah, 91 sekolah/satuan pendidikan, 18 kantor, dan 11 fasilitas kesehatan[cite: 3]. Tren Risiko Bencana (IRB) Jawa Timur menunjukkan penurunan dari 152,43 pada 2015 menjadi 116,91 pada 2023, namun tetap berada dalam kategori risiko tinggi yang memerlukan mitigasi berkelanjutan[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_kekeringan_distribusi_air_bersih_nasional_015",
+    "disaster_type": "kekeringan",
+    "source": "data_bencana_indonesia_2024.txt",
+    "topic": "data_distribusi_air_bersih_darurat_2024",
+    "language": "id",
+    "text": "Pemerintah melakukan penyaluran air bersih secara masif untuk mengatasi dampak kekeringan 2024 di wilayah terdampak kritis: 1. Jawa Tengah menyalurkan total 39.544.500 liter air ke 31 kabupaten/kota (Januari - Oktober 2024)[cite: 3]. 2. Jawa Barat (Kabupaten Bogor) menyalurkan 4.455.000 liter untuk melayani 203.220 jiwa terdampak[cite: 3]. 3. Jawa Timur (Kabupaten Ponorogo) mendistribusikan 2.502.000 liter air melalui truk tangki[cite: 3]. 4. Sumatera Utara melakukan pendistribusian air serupa di wilayah Gunungsitoli untuk menjaga akses sanitasi warga[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_erupsi_gunungapi_profil_kesehatan_pengungsi_016",
+    "disaster_type": "erupsi_gunungapi",
+    "source": "data_bencana_indonesia_2024.txt",
+    "topic": "profil_kesehatan_dan_penyakit_pengungsi_lewotobi",
+    "language": "id",
+    "text": "Data kesehatan pengungsi erupsi Gunung Lewotobi Laki-Laki (4 November - 31 Desember 2024) menunjukkan ISPA (Infeksi Saluran Pernapasan Akut) sebagai keluhan utama akibat paparan abu vulkanik[cite: 3]. Penyakit lain yang dominan meliputi Dermatitis (kulit) akibat keterbatasan sanitasi, serta Gastritis dan Hipertensi yang menyerang kelompok lansia akibat stres pascabencana[cite: 3]. Korban terdampak langsung juga mengalami luka bakar dan vulnus (luka terbuka) akibat hantaman batu pijar[cite: 3]. Penanganan medis didukung oleh dashboard real-time yang memantau analisa kebutuhan dan data kesehatan pengungsi secara terpilah[cite: 3]."
+  },
+  {
+    "chunk_id": "bnpb_multi_bencana_kontak_darurat_final_018",
+    "disaster_type": "multi_bencana",
+    "source": "data_bencana_indonesia_2024.txt",
+    "topic": "referensi_kontak_darurat_dan_portal_informasi",
+    "language": "id",
+    "text": "Sebagai rujukan cepat chatbot dan akses publik, kontak resmi BMKG Pusat tersedia di 021-424 6321 atau 021-654 6316[cite: 3]. Informasi real-time dapat diakses melalui portal inatews.bmkg.go.id dan gis.bnpb.go.id[cite: 3]. Aplikasi mobile pendukung mitigasi meliputi InfoBMKG, WRS-BMKG, dan inarisk (BNPB)[cite: 3]. Seluruh pengelolaan data pengungsi dan dampak bencana dilakukan sesuai dengan prinsip Satu Data Indonesia (Perpres No. 39 Tahun 2019) dan standar pendataan pengungsi terpilah (Peraturan BNPB No. 1 Tahun 2023)[cite: 3]."
+  },
+  {
+    "chunk_id": "sigap_banjir_evakuasi_universal_001",
+    "disaster_type": "banjir",
+    "source": "sigap_curated_universal.txt",
+    "topic": "evakuasi_banjir_universal",
+    "language": "id",
+    "text": "Langkah evakuasi banjir yang berlaku di seluruh Indonesia: (1) Pantau peringatan dini melalui siaran radio, SMS pemerintah, atau pengumuman masjid/gereja setempat. (2) Matikan aliran listrik di MCB/sekring utama sebelum air masuk rumah. (3) Bawa Tas Siaga Bencana (dokumen, obat, air minum, makanan 3 hari, senter, peluit, powerbank). (4) Evakuasi ke titik kumpul terdekat — biasanya balai desa, masjid, sekolah, atau kantor kecamatan di dataran lebih tinggi. (5) Prioritaskan lansia, bayi, ibu hamil, dan penyandang disabilitas. (6) Jangan menyeberangi arus air yang mengalir deras — arus 15 cm sudah bisa menjatuhkan orang dewasa."
+  },
+  {
+    "chunk_id": "sigap_banjir_tanda_bahaya_002",
+    "disaster_type": "banjir",
+    "source": "sigap_curated_universal.txt",
+    "topic": "tanda_bahaya_banjir",
+    "language": "id",
+    "text": "Kenali tanda-tanda banjir akan datang: (1) Hujan deras lebih dari 1 jam di daerahmu atau di hulu sungai. (2) Air sungai berubah warna menjadi coklat keruh dan berbau tanah. (3) Permukaan air sungai naik cepat melebihi batas normal. (4) Terdengar suara gemuruh dari arah hulu sungai (bisa tanda banjir bandang). (5) Binatang seperti semut, cacing, dan tikus bermigrasi ke tempat lebih tinggi. Jika melihat 2 tanda atau lebih, segera kumpulkan keluarga dan bersiap evakuasi tanpa menunggu perintah resmi."
+  },
+  {
+    "chunk_id": "sigap_banjir_pasca_bencana_003",
+    "disaster_type": "banjir",
+    "source": "sigap_curated_universal.txt",
+    "topic": "pemulihan_pasca_banjir",
+    "language": "id",
+    "text": "Yang harus dilakukan setelah banjir surut: (1) Jangan langsung masuk ke rumah — periksa struktur dinding dan atap dari luar dulu. (2) Gunakan sepatu/sandal saat membersihkan, hindari kontak kulit langsung dengan lumpur (mengandung bakteri berbahaya). (3) Jangan nyalakan listrik sebelum instalasi diperiksa teknisi atau PLN. (4) Buang semua makanan dan air yang terkontaminasi banjir. (5) Bersihkan lantai dan dinding dengan detergen dan desinfektan. (6) Lakukan PSN (Pemberantasan Sarang Nyamuk) — kuras, tutup, dan kubur genangan air untuk mencegah demam berdarah. (7) Laporkan kerusakan ke RT/RW atau BPBD setempat untuk pendataan bantuan."
+  },
+  {
+    "chunk_id": "sigap_banjir_siaga_level_004",
+    "disaster_type": "banjir",
+    "source": "sigap_curated_universal.txt",
+    "topic": "tingkat_siaga_banjir_indonesia",
+    "language": "id",
+    "text": "Status Siaga Banjir dan artinya: SIAGA 4 / Normal — kondisi aman, tidak ada tindakan khusus. SIAGA 3 / Waspada — mulai pantau informasi, siapkan tas darurat. SIAGA 2 / Siaga — bersiap evakuasi, amankan barang berharga ke tempat tinggi, matikan listrik. SIAGA 1 / Awas — SEGERA EVAKUASI, jangan tunggu air masuk rumah. Status ini disiarkan melalui BPBD setempat, aplikasi inaRISK, BMKG, atau pengumuman resmi daerah. Nomor darurat nasional: 112 (berlaku di seluruh Indonesia, gratis dari semua operator)."
+  },
+  {
+    "chunk_id": "sigap_banjir_bandang_005",
+    "disaster_type": "banjir",
+    "source": "sigap_curated_universal.txt",
+    "topic": "banjir_bandang_penanganan_darurat",
+    "language": "id",
+    "text": "Banjir bandang lebih mematikan dari banjir biasa karena datang tiba-tiba dengan kecepatan dan material (batu, kayu) yang besar. Tanda-tanda: suara gemuruh keras dari hulu, air tiba-tiba naik drastis dalam hitungan menit, bau tanah basah yang menyengat. Tindakan darurat: (1) LARI LANGSUNG ke dataran tinggi tegak lurus dari aliran sungai — jangan mengambil barang apapun. (2) Jangan berlindung di bawah jembatan. (3) Jika terbawa arus, coba raih pohon atau benda apung yang besar. (4) Setelah aman, hubungi SAR/Basarnas di 115 atau Call Center 112."
+  },
+  {
+    "chunk_id": "sigap_longsor_tanda_awal_001",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "tanda_awal_longsor",
+    "language": "id",
+    "text": "Tanda-tanda tanah longsor akan terjadi yang harus diketahui warga di daerah perbukitan: (1) Retakan baru muncul di tanah, jalan, atau dinding rumah — terutama setelah hujan deras. (2) Pohon, tiang listrik, atau pagar terlihat miring ke satu arah. (3) Air sumur atau mata air tiba-tiba keruh atau kering mendadak. (4) Terdengar suara gemeretak dari tanah atau pohon di lereng atas. (5) Tanah terasa bergetar atau bergeser sedikit di bawah kaki. (6) Air mengalir dari lereng yang sebelumnya kering. Jika ada 2 tanda atau lebih saat atau sesudah hujan lebat, segera tinggalkan area dan hubungi kepala desa atau BPBD."
+  },
+  {
+    "chunk_id": "sigap_longsor_evakuasi_darurat_002",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "evakuasi_saat_longsor",
+    "language": "id",
+    "text": "Cara menyelamatkan diri saat longsor terjadi: (1) SEGERA LARI menjauhi jalur longsor ke arah tegak lurus — ke kanan atau kiri, BUKAN lari menuruni lereng. (2) Jika mendengar suara gemuruh besar, jangan berhenti untuk melihat — langsung lari. (3) Jika tidak sempat lari, berlindung di balik bangunan beton yang kuat atau pohon besar yang kokoh. (4) Posisi darurat jika tertimpa: meringkuk seperti bola, peluk lutut ke dada, lindungi kepala dan leher dengan kedua tangan. (5) Setelah selamat, JANGAN kembali ke lokasi — longsor susulan sangat mungkin terjadi dalam 24 jam pertama, terutama jika masih hujan."
+  },
+  {
+    "chunk_id": "sigap_longsor_prabencana_mitigasi_003",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "mitigasi_longsor_prabencana",
+    "language": "id",
+    "text": "Cara mencegah dan mengurangi risiko longsor di daerah perbukitan: (1) Tanam pohon berakar dalam di lereng — jenis terbaik: Nangka, Durian, Bambu Petung, Pete, atau Vetiver (Akar Wangi) yang akarnya bisa menembus 5 meter. (2) Buat drainase (saluran air) yang baik agar air hujan tidak meresap berlebihan ke dalam lereng. (3) Jangan tebang pohon di atas lereng rumahmu. (4) Jangan bangun rumah permanen di tepi tebing atau di bawah lereng curam (>45°). (5) Daftar nomor darurat setempat (BPBD kabupaten) dan simpan di ponsel. (6) Buat kesepakatan dengan tetangga tentang titik kumpul dan rute evakuasi jika terjadi longsor malam hari."
+  },
+  {
+    "chunk_id": "sigap_longsor_p3k_tertimba_004",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "p3k_korban_tertimbun_longsor",
+    "language": "id",
+    "text": "Pertolongan pertama untuk korban yang tertimbun tanah longsor: (1) Pastikan area aman dari longsor susulan sebelum mendekati korban. (2) Gali perlahan dari atas, jangan langsung dari samping agar tanah tidak runtuh lagi. (3) Bebaskan kepala dan dada korban terlebih dahulu agar bisa bernapas. (4) Jika korban tidak sadar, periksa napas (A-B-C: Airway, Breathing, Circulation) dan lakukan RJP jika diperlukan. (5) Jangan paksa menggerakkan korban yang dicurigai patah tulang — stabilkan dulu dengan bidai darurat. (6) Untuk korban yang diduga cedera tulang belakang (tidak bisa gerak/rasa): JANGAN dibalik atau dipindahkan tanpa papan pengaman. (7) Hubungi ambulans 118/119 atau SAR 115 sambil menunggu."
+  },
+  {
+    "chunk_id": "sigap_longsor_daerah_terpencil_005",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "penanganan_longsor_daerah_terpencil",
+    "language": "id",
+    "text": "Cara memanggil bantuan jika longsor terjadi di daerah terpencil tanpa sinyal: (1) Kirim orang ke lokasi bersinyal terdekat untuk menghubungi 112, 115 (SAR), atau 118 (ambulans). (2) Nyalakan api atau buat asap tebal (bakar karet, plastik, daun basah) di tempat terbuka sebagai sinyal darurat yang terlihat dari udara atau kejauhan. (3) Gunakan cermin, senter, atau lampu untuk memberi sinyal cahaya jika ada helikopter SAR. (4) Siapkan LZ (Landing Zone) untuk helikopter: area datar minimal 25x25 meter, bersih dari pohon dan kabel, tandai dengan kain berwarna cerah membentuk huruf H atau X. (5) Jika ada radio HT, gunakan frekuensi darurat 156.8 MHz (VHF) atau 243.0 MHz (UHF militer)."
+  },
+  {
+    "chunk_id": "sigap_longsor_hipotermia_006_a",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "hipotermia_pasca_longsor",
+    "language": "id",
+    "text": "Penanganan hipotermia pada korban longsor di pegunungan: Hipotermia terjadi ketika suhu tubuh turun di bawah 35°C, sering dialami korban yang terkubur tanah basah atau terkena hujan deras dalam waktu lama. Tanda-tanda: menggigil hebat, kulit pucat atau kebiruan, bicara tidak jelas, kesadaran menurun. Penanganan: (1) Pindahkan korban dari tempat dingin dan basah ke tempat terlindung."
+  },
+  {
+    "chunk_id": "sigap_longsor_hipotermia_006_b",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "hipotermia_pasca_longsor",
+    "language": "id",
+    "text": "lama. Tanda-tanda: menggigil hebat, kulit pucat atau kebiruan, bicara tidak jelas, kesadaran menurun. Penanganan: (1) Pindahkan korban dari tempat dingin dan basah ke tempat terlindung. (2) Ganti semua pakaian basah dengan pakaian kering. (3) Selimuti seluruh tubuh termasuk kepala — gunakan selimut, sarung, atau daun kering jika tidak ada perlengkapan lain. (4) Berikan minuman hangat (teh, air panas) HANYA jika korban sadar dan bisa menelan. (5) Tempelkan botol air hangat (bungkus kain) di ketiak, leher, dan selangkangan. (6) Jangan gosok-gosok kulit korban — bisa memperparah kondisi. Segera bawa ke puskesmas atau rumah sakit."
+  },
+  {
+    "chunk_id": "sigap_longsor_susulan_waspada_007",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "kewaspadaan_longsor_susulan",
+    "language": "id",
+    "text": "Longsor susulan adalah ancaman nyata yang sering diabaikan: (1) 70% kematian akibat longsor terjadi saat orang kembali ke lokasi terlalu cepat. (2) Jangan kembali ke rumah dalam 24-72 jam pertama setelah longsor besar, terutama jika masih hujan atau tanah masih jenuh air. (3) Tanda area masih berbahaya: tanah terasa lembek dan bergetar, air masih mengalir dari atas lereng, retakan baru terus berkembang. (4) Tunggu izin resmi dari BPBD atau kepala desa sebelum kembali ke lokasi. (5) Jika harus mengambil barang penting, masuk berdua — satu orang masuk, satu orang di luar siap berlari dan meminta pertolongan. Waktu maksimal di dalam: 5 menit."
+  },
+  {
+    "chunk_id": "sigap_longsor_anak_lansia_008",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "evakuasi_kelompok_rentan_longsor",
+    "language": "id",
+    "text": "Cara mengevakuasi kelompok rentan saat longsor: ANAK-ANAK: Pegang tangan atau gendong anak di bawah 5 tahun. Beri instruksi sederhana: 'Pegang tangan kakak, kita lari ke bukit.' Jangan tinggalkan anak sendirian meskipun situasi panik. LANSIA: Bantu berjalan dengan pegangan di ketiak. Jika tidak bisa berjalan, angkat dengan teknik 2 orang (satu pegang bahu, satu pegang kaki). Jangan seret lansia di tanah. PENYANDANG DISABILITAS: Kenali kondisi tetangga berkebutuhan khusus sejak sebelum bencana. Siapkan kursi roda darurat atau tandu improvisasi dari kayu dan sarung/kain. IBU HAMIL: Bantu berjalan perlahan, hindari medan terjal. Jika sudah kontraksi saat evakuasi, cari tempat aman terdekat dan hubungi bidan atau 118."
+  },
+  {
+    "chunk_id": "sigap_longsor_komunikasi_darurat_009",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "komunikasi_darurat_longsor",
+    "language": "id",
+    "text": "Panduan komunikasi darurat saat longsor memutus akses: (1) Hemat baterai ponsel — aktifkan mode pesawat dan nonaktifkan data seluler, nyalakan hanya 10 menit setiap jam untuk cek sinyal dan kirim pesan. (2) Kirim pesan teks (SMS) — lebih hemat daya dan lebih mudah terkirim di sinyal lemah dibanding telepon. (3) Pesan darurat yang efektif: 'DARURAT — Longsor di [nama desa/kampung], [jumlah] orang terjebak, butuh bantuan segera. Koordinat: [titik GPS jika ada].' (4) Nomor penting: Darurat 112, SAR/Basarnas 115, Ambulans 118, BNPB 0812-1237575. (5) Jika ponsel mati total, gunakan peluit (3 tiupan panjang = tanda darurat universal) atau teriak bersamaan untuk memanggil bantuan."
+  },
+  {
+    "chunk_id": "sigap_longsor_statistik_indonesia_010",
+    "disaster_type": "longsor",
+    "source": "sigap_curated_universal.txt",
+    "topic": "data_longsor_indonesia",
+    "language": "id",
+    "text": "Data longsor Indonesia 2024 (BNPB): Terdapat 207 kejadian tanah longsor sepanjang 2024, menjadikannya bencana geologi paling mematikan per kejadian. Daerah paling rawan: Jawa Barat (terutama Bandung Barat, Sukabumi, Cianjur), Sulawesi Selatan, dan Sumatera Barat. Contoh kejadian besar 2024: Longsor Cipongkor Bandung Barat (24 Maret 2024) — 8 meninggal, 120 rumah rusak berat, dipicu hujan deras 4 jam di lereng dengan kemiringan 45-67°. Longsor Tana Toraja (13 April 2024) — 20 meninggal. Longsor tambang ilegal Bone Bolango (7 Juli 2024) — 27 meninggal. Faktor risiko utama: lereng curam >45°, curah hujan tinggi, alih fungsi lahan hutan menjadi kebun/permukiman."
+  },
+  {
+    "chunk_id": "sigap_gempa_tindakan_praktis_001",
+    "disaster_type": "gempa",
+    "source": "sigap_curated_universal.txt",
+    "topic": "tindakan_praktis_gempa",
+    "language": "id",
+    "text": "Panduan DROP-COVER-HOLD saat gempa: (1) DROP — langsung jatuhkan diri ke lantai, jangan berlari. (2) COVER — masuk ke bawah meja yang kokoh atau berlindung di sudut ruangan jauh dari jendela dan lemari besar. Lindungi kepala dan leher dengan kedua tangan jika tidak ada meja. (3) HOLD — pegang kaki meja hingga guncangan berhenti. Jangan berlari keluar gedung saat gempa masih terasa — banyak korban tertimpa puing di pintu atau teras. Tunggu hingga guncangan benar-benar berhenti, baru evakuasi ke lapangan terbuka dengan tertib."
+  },
+  {
+    "chunk_id": "sigap_gempa_setelah_guncangan_002",
+    "disaster_type": "gempa",
+    "source": "sigap_curated_universal.txt",
+    "topic": "prosedur_setelah_gempa",
+    "language": "id",
+    "text": "Yang harus dilakukan setelah guncangan gempa berhenti: (1) Periksa diri sendiri dulu — ada luka atau tidak. (2) Periksa anggota keluarga terdekat. (3) Matikan gas dan kompor jika menyala — risiko kebakaran sangat tinggi pasca gempa. (4) Jangan nyalakan korek atau rokok sebelum memastikan tidak ada bau gas. (5) Keluar gedung melalui tangga (BUKAN lift) dengan tertib dan menunduk. (6) Menuju titik kumpul yang sudah disepakati (biasanya lapangan, halaman sekolah, atau area terbuka jauh dari gedung). (7) Dengarkan informasi resmi dari BMKG via radio atau aplikasi InfoBMKG — jangan percaya rumor gempa susulan yang tidak resmi. (8) Jika di pantai dan gempa terasa kuat/lama, langsung naik ke tempat tinggi tanpa menunggu peringatan tsunami."
+  },
+  {
+    "chunk_id": "sigap_gunungapi_evakuasi_praktis_001",
+    "disaster_type": "gunungapi",
+    "source": "sigap_curated_universal.txt",
+    "topic": "evakuasi_praktis_gunung_api",
+    "language": "id",
+    "text": "Langkah evakuasi saat gunung api status SIAGA (Level III) atau AWAS (Level IV): (1) Patuhi radius larangan yang ditetapkan PVMBG — jangan kembali meski tampak aman. (2) Gunakan masker N95 atau kain basah berlapis 3 untuk mengurangi hirupan abu vulkanik. (3) Gunakan kacamata pelindung atau kacamata renang — abu vulkanik bisa melukai mata. (4) Pakai pakaian lengan panjang, celana panjang, dan topi untuk melindungi kulit dari abu. (5) Evakuasi ke shelter resmi (biasanya gedung sekolah, balai desa, atau GOR) yang ditetapkan pemerintah daerah. (6) Jika ada lahar/banjir material vulkanik, jauhi semua aliran sungai yang berhulu di gunung tersebut. (7) Bersihkan atap rumah dari abu jika sudah > 5 cm — abu basah sangat berat dan bisa menrobohkan atap."
+  },
+  {
+    "chunk_id": "sigap_gunungapi_abu_kesehatan_002",
+    "disaster_type": "gunungapi",
+    "source": "sigap_curated_universal.txt",
+    "topic": "dampak_kesehatan_abu_vulkanik",
+    "language": "id",
+    "text": "Dampak kesehatan abu vulkanik dan cara mengatasinya: Abu vulkanik mengandung partikel silika tajam yang bisa melukai paru-paru dan mata. Penyakit paling umum: ISPA (batuk, sesak napas), iritasi mata, dan iritasi kulit. Pencegahan: (1) Tetap di dalam ruangan dengan jendela dan pintu tertutup rapat. (2) Tempel kain basah di celah pintu dan jendela. (3) Jika harus keluar, gunakan masker N95 (bukan masker bedah biasa). (4) Cuci tangan dan muka sesering mungkin. (5) Jangan minum air dari tampungan terbuka yang terkena abu. (6) Untuk iritasi mata: bilas dengan air bersih mengalir selama 15-20 menit, jangan digosok. (7) Segera ke puskesmas jika mengalami sesak napas berat, batuk berdarah, atau nyeri dada."
+  },
+  {
+    "chunk_id": "sigap_sos_checklist_5_langkah_001",
+    "disaster_type": "multi_bencana",
+    "source": "sigap_emergency_cache.txt",
+    "topic": "sos_checklist_5_langkah_darurat",
+    "language": "id",
+    "text": "5 LANGKAH DARURAT PERTAMA (berlaku untuk semua bencana): LANGKAH 1 — SELAMATKAN DIRI: Keluar dari zona bahaya langsung. Jangan ambil barang dulu. LANGKAH 2 — KUMPULKAN KELUARGA: Pergi ke titik kumpul yang sudah disepakati (biasanya lapangan atau halaman masjid terdekat). LANGKAH 3 — BANTU YANG RENTAN: Bantu lansia, anak kecil, ibu hamil, dan penyandang disabilitas di sekitarmu. LANGKAH 4 — HUBUNGI BANTUAN: Telepon 112 (darurat umum), 115 (SAR), atau 118 (ambulans). Kirim lokasi GPS jika bisa. LANGKAH 5 — TUNGGU DAN INFORMASIKAN: Tunggu di tempat aman. Beri kabar ke keluarga jauh bahwa kamu selamat melalui SMS atau media sosial."
+  },
+  {
+    "chunk_id": "sigap_sos_kontak_darurat_nasional_002",
+    "disaster_type": "multi_bencana",
+    "source": "sigap_emergency_cache.txt",
+    "topic": "kontak_darurat_nasional_indonesia",
+    "language": "id",
+    "text": "Nomor telepon darurat yang berlaku di seluruh Indonesia (gratis dari semua operator): 112 — Darurat Terpadu (polisi, pemadam, ambulans, BPBD), 110 — Polisi, 113 — Pemadam Kebakaran, 115 — SAR / Basarnas, 118 atau 119 — Ambulans / Gawat Darurat Medis, 021-424 6321 — BMKG Pusat (gempa dan tsunami), 0812-1237575 — Pusdalops BNPB. Cara SMS darurat jika sinyal lemah: Ketik 'DARURAT [lokasi] [jenis bencana] [jumlah korban]' dan kirim ke 112. Simpan semua nomor ini di kontak ponsel dengan nama 'DARURAT' agar mudah ditemukan saat panik."
+  },
+  {
+    "chunk_id": "sigap_sos_tas_siaga_isi_003",
+    "disaster_type": "umum",
+    "source": "sigap_emergency_cache.txt",
+    "topic": "tas_siaga_bencana_isi_lengkap",
+    "language": "id",
+    "text": "Isi Tas Siaga Bencana (TSB) untuk 3 hari — versi keluarga 4 orang: DOKUMEN: KTP, KK, ijazah, akta lahir, buku tabungan dalam plastik zip-lock kedap air. AIR & MAKANAN: 4 botol air mineral 1,5 liter, biskuit/roti kering, abon, mie instan, permen gula untuk energi cepat. KESEHATAN: obat rutin (hipertensi, diabetes, dll), paracetamol, oralit, plester, perban, alkohol/betadine. ALAT: senter + baterai cadangan, peluit (3 tiupan = tanda minta tolong), pisau lipat, korek api waterproof. KOMUNIKASI: powerbank terisi penuh, radio FM portable, pulsa/token data cadangan. LAIN-LAIN: jas hujan, pakaian ganti 1 set/orang, uang tunai pecahan kecil. Simpan TSB di tempat yang mudah dijangkau — dekat pintu keluar rumah."
+  },
+  {
+    "chunk_id": "sigap_p3k_luka_umum_bencana_001",
+    "disaster_type": "kedaruratan_medis",
+    "source": "sigap_curated_universal.txt",
+    "topic": "p3k_luka_umum_saat_bencana",
+    "language": "id",
+    "text": "Pertolongan pertama untuk luka umum saat bencana: LUKA TERBUKA / BERDARAH: (1) Tekan luka dengan kain bersih selama 10-15 menit tanpa dilepas. (2) Jika darah merembes, tambahkan kain di atas — jangan melepas kain pertama. (3) Angkat bagian yang luka lebih tinggi dari jantung untuk mengurangi perdarahan. (4) Bersihkan dengan air bersih mengalir jika tersedia. (5) Tutup dengan perban atau kain bersih. JANGAN: mencabut benda yang menancap di luka, mengoleskan pasta gigi/kopi/tanah pada luka, atau membalut terlalu kencang hingga ujung jari membiru. PATAH TULANG: Stabilkan dengan bidai darurat (kayu, papan, atau majalah) yang dibungkus kain. Ikat di atas dan bawah patahan — jangan langsung di atas patahan. Segera bawa ke fasilitas kesehatan."
+  },
+  {
+    "chunk_id": "longsor_praktis_001",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "tanda_alam_bahaya_longsor",
+    "language": "id",
+    "text": "Kenali tanda alam sebelum longsor terjadi: (1) Terdengar suara gemuruh atau retakan keras dari lereng atas, meski tidak ada petir. (2) Air sungai atau sumur tiba-tiba berubah sangat keruh dan berbau tanah menyengat. (3) Retakan baru muncul di tanah, jalan, atau pondasi rumah — khususnya setelah hujan deras lebih dari 2 jam. (4) Pohon, tiang listrik, atau tembok miring secara mendadak. (5) Mata air baru muncul di lereng yang sebelumnya kering. Jika dua tanda atau lebih muncul bersamaan, jangan tunggu konfirmasi — segera evakuasi seluruh anggota keluarga ke titik kumpul yang telah disepakati."
+  },
+  {
+    "chunk_id": "longsor_praktis_002",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "arah_lari_saat_longsor",
+    "language": "id",
+    "text": "Arah lari yang benar saat longsor adalah TEGAK LURUS terhadap jalur longsoran, bukan menuruni atau mendaki lereng yang sama. Longsor bergerak mengikuti gravitasi lurus ke bawah; berlari menyamping memungkinkan Anda keluar dari jalur materialnya. Langkah darurat: (1) Identifikasi arah aliran material (biasanya dari puncak ke lembah). (2) Lari ke sisi kanan atau kiri jalur tersebut sejauh mungkin. (3) Cari dataran tinggi yang stabil, bukan tebing atau lereng lain. (4) Jangan berhenti di bawah jembatan atau gorong-gorong — material longsor bisa menyumbat dan menghantam. (5) Jangan kembali mengambil barang. Nyawa tidak bisa diganti."
+  },
+  {
+    "chunk_id": "longsor_praktis_003",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "posisi_tubuh_jika_tertimpa",
+    "language": "id",
+    "text": "Jika tidak sempat melarikan diri dan material longsor menghampiri, ambil posisi perlindungan segera: (1) Meringkuk seperti bola — lutut ditarik ke dada, tubuh membulat. (2) Kedua tangan merangkul kepala kuat-kuat untuk melindungi tengkorak dari benturan batu dan kayu. (3) Wajah menghadap ke bawah atau ke samping agar saluran napas tidak langsung tertutup tanah. (4) Jika tertimbun, gerakkan tangan perlahan untuk menciptakan ruang udara di depan wajah sebelum tanah mengeras. (5) Ketuk permukaan keras secara ritmis (3 ketukan) agar tim penyelamat dapat mendeteksi posisi Anda. Hindari berteriak terus-menerus karena menguras oksigen."
+  },
+  {
+    "chunk_id": "longsor_praktis_004",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "p3k_korban_longsor_ringan",
+    "language": "id",
+    "text": "Pertolongan pertama untuk korban longsor dengan luka ringan (lecet, memar, luka terbuka kecil): (1) Pindahkan korban ke area aman, jauh dari lereng aktif. (2) Bersihkan luka dengan air bersih mengalir minimal 5 menit untuk mengeluarkan partikel tanah. (3) Tekan luka berdarah dengan kain bersih selama 10-15 menit tanpa dilepas. (4) Tutup dengan perban atau plastik bersih jika perban tidak tersedia. (5) Periksa tanda hipotermia: menggigil, kulit pucat, bicara tidak jelas — segera selimuti korban. (6) Berikan air minum jika korban sadar penuh. (7) Catat nama dan kondisi korban untuk dilaporkan ke petugas kesehatan atau BPBD setempat."
+  },
+  {
+    "chunk_id": "longsor_praktis_005",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "p3k_korban_longsor_luka_berat",
+    "language": "id",
+    "text": "Penanganan korban longsor dengan luka berat: JANGAN memindahkan korban yang diduga mengalami cedera tulang belakang (tanda: tidak bisa menggerakkan kaki/tangan, nyeri leher atau punggung hebat, mati rasa). Stabilkan kepala dan leher dengan kedua tangan atau ganjal dengan tas/baju di kedua sisi kepala. Untuk perdarahan besar: tekan kuat dengan kain tebal, jangan lepaskan. Jika tulang menonjol keluar, tutup dengan kain bersih basah — jangan dorong kembali ke dalam. Pantau pernapasan setiap 2-3 menit. Hubungi 118 atau 115 (SAR/Basarnas). Jika sinyal tidak ada, kirim 2 orang berbeda arah untuk mencari bantuan secara bersamaan."
+  },
+  {
+    "chunk_id": "longsor_praktis_006",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "cara_panggil_bantuan_daerah_terpencil",
+    "language": "id",
+    "text": "Cara memanggil bantuan di daerah terpencil tanpa sinyal seluler saat longsor: (1) PELUIT: tiup 3 kali berulang — ini adalah sinyal universal tanda bahaya. (2) API DAN ASAP: nyalakan api di tempat terbuka; tambahkan daun hijau/plastik untuk asap tebal yang terlihat dari udara dan jarak jauh. (3) CERMIN ATAU BENDA REFLEKTIF: pantulkan cahaya matahari ke arah pesawat atau pos jaga. (4) SUSUNAN BATU/KAYU: buat tanda SOS besar (minimal 3 meter) di tanah terbuka, lapangan, atau atap. (5) KENTONGAN: pukul dengan pola 3 ketukan sebagai tanda darurat sesuai tradisi lokal. Kirim minimal 2 orang ke arah berbeda menuju pemukiman terdekat secara bersamaan."
+  },
+  {
+    "chunk_id": "longsor_praktis_007",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "evakuasi_mandiri_48_jam_pertama",
+    "language": "id",
+    "text": "Panduan bertahan dan evakuasi mandiri dalam 48 jam pertama pasca longsor: Jam 0-6: Amankan diri di titik tinggi, inventaris anggota keluarga, rawat luka ringan. Jam 6-12: Bentuk kelompok kecil (5-10 orang), tunjuk satu koordinator, identifikasi jalur evakuasi alternatif menjauhi lereng. Jam 12-24: Bagi tugas — sebagian mencari air bersih (mata air atau air hujan), sebagian buat penanda lokasi untuk tim SAR. Jam 24-48: Jika bantuan belum datang, evakuasi bersama ke pemukiman terdekat melalui jalur paling aman. Bawa hanya barang esensial (air, makanan, obat, dokumen). Tandai jalur yang Anda lewati dengan kain atau batu agar mudah dilacak."
+  },
+  {
+    "chunk_id": "longsor_praktis_008",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "evakuasi_disabilitas_dan_lansia_dari_lereng",
+    "language": "id",
+    "text": "Prosedur evakuasi kelompok rentan dari area longsor di lereng: LANSIA yang tidak bisa berjalan mandiri: gunakan teknik angkat dua orang (satu pegang di bawah ketiak, satu pegang lipatan lutut), atau buat tandu darurat dari dua batang bambu/kayu dan kain sarung. PENGGUNA KURSI RODA: angkat kursi beserta penggunanya melewati medan tidak rata — butuh minimal 3 orang. TUNANETRA: pegang tangan dan berikan instruksi verbal langkah demi langkah; sebutkan hambatan di depan. TUNARUNGU: gunakan kontak fisik (tepukan bahu) dan isyarat visual. Penting: petakan warga berkebutuhan khusus di lingkungan Anda SEBELUM musim hujan agar respons lebih cepat saat bencana terjadi."
+  },
+  {
+    "chunk_id": "longsor_praktis_009",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "ciri_lereng_berisiko_tinggi",
+    "language": "id",
+    "text": "Kenali ciri-ciri lereng berisiko longsor tinggi sebelum memilih tempat tinggal atau jalur perjalanan: (1) Kemiringan di atas 30 derajat (sekitar 60%) — semakin curam, semakin berbahaya. (2) Tanah lempung atau liat yang licin saat basah dan retak saat kering — tidak stabil menahan beban. (3) Vegetasi jarang atau bekas tebangan liar; akar pohon yang sedikit tidak mampu mengikat tanah. (4) Bekas longsoran lama terlihat dari tebing tanah terbuka, pohon yang tumbuh miring, atau lembah berbentuk tapal kuda. (5) Lereng di bawah tebing batuan lapuk berwarna oranye-coklat. (6) Area di bawah saluran air alami atau limpasan hujan terkonsentrasi. Hindari mendirikan bangunan permanen di zona ini."
+  },
+  {
+    "chunk_id": "longsor_praktis_010",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "larangan_setelah_longsor",
+    "language": "id",
+    "text": "Hal-hal yang DILARANG dilakukan setelah longsor terjadi: (1) JANGAN kembali ke lokasi longsor dalam 24 jam pertama — longsor susulan sangat mungkin terjadi, terutama jika hujan masih turun. (2) JANGAN mendekati tebing atau lereng yang baru saja longsor meskipun terlihat stabil. (3) JANGAN menyalakan kompor gas atau listrik di bangunan yang terdampak sebelum diperiksa teknisi. (4) JANGAN meminum air dari sumur atau sungai yang tercampur material longsor tanpa dimasak atau difilter. (5) JANGAN membongkar material longsor secara sembarangan jika ada kemungkinan korban tertimbun — percayakan pada tim SAR. (6) JANGAN menyebarkan informasi lokasi korban yang belum terverifikasi agar tidak menghambat koordinasi penyelamatan."
+  },
+  {
+    "chunk_id": "longsor_praktis_011",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "persiapan_sebelum_musim_hujan_di_daerah_lereng",
+    "language": "id",
+    "text": "Langkah persiapan wajib bagi warga di daerah lereng sebelum musim hujan tiba: (1) Periksa dan perkuat saluran drainase di sekitar rumah agar air hujan tidak menggenang dan meresap berlebihan ke lereng. (2) Tanam tanaman berakar dalam (vetiver/akar wangi, bambu, atau pohon keras) di lereng sekitar rumah. (3) Sepakati jalur evakuasi dan titik kumpul dengan seluruh anggota keluarga dan warga RT. (4) Siapkan Tas Siaga Bencana berisi dokumen, obat, makanan 3 hari, senter, dan peluit. (5) Simpan nomor BPBD kabupaten/kota, SAR (115), dan 112 di ponsel semua anggota keluarga dewasa. (6) Pasang tanda pada retakan tanah yang sudah ada — pantau apakah retakan melebar setelah hujan."
+  },
+  {
+    "chunk_id": "longsor_praktis_012",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "komunikasi_darurat_saat_longsor_jaringan_mati",
+    "language": "id",
+    "text": "Strategi komunikasi darurat saat jaringan telepon dan internet terputus akibat longsor: (1) RADIO HT (Handy Talky): jika tersedia, gunakan frekuensi ORARI/RAPI lokal — biasanya sudah ada relawan aktif. (2) KENTONGAN atau SIRINE: pukul pola 3-3-3 sebagai tanda bahaya universal yang dipahami warga lokal. (3) KURIR MANUSIA: kirim 2 orang ke arah berbeda menuju pos polisi, puskesmas, atau kantor desa terdekat — satu pasti tiba. (4) SMS: kirim SMS ke 1500-136 (BNPB) atau 112 — SMS lebih mungkin terkirim saat sinyal lemah dibanding panggilan suara. (5) Kumpulkan seluruh warga di satu titik agar jumlah korban mudah didata dan koordinasi bantuan lebih efisien."
+  },
+  {
+    "chunk_id": "longsor_praktis_013",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "longsor_lahar_dingin_pengertian",
+    "language": "id",
+    "text": "Longsor dan lahar dingin adalah dua ancaman berbeda yang sering tertukar. Longsor adalah pergerakan massa tanah, batu, dan vegetasi menuruni lereng akibat hujan deras atau gempa — terjadi di mana saja ada lereng curam. Lahar dingin (lahar hujan) adalah aliran campuran air hujan dengan material vulkanik (abu, pasir, kerikil) dari lereng gunung berapi yang tidak dalam kondisi erupsi aktif. Lahar dingin bergerak jauh lebih cepat, lebih berat, dan menjangkau jarak yang lebih jauh dibandingkan longsor biasa karena material vulkanik sangat mudah jenuh air. Contoh: lahar dingin Gunung Marapi (Sumbar) 2024 menjangkau 26 kecamatan dan merusak 44 jembatan sekaligus."
+  },
+  {
+    "chunk_id": "longsor_praktis_014",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "longsor_lahar_dingin_tindakan",
+    "language": "id",
+    "text": "Tindakan khusus menghadapi lahar dingin di daerah sekitar gunung berapi: (1) Waspadai hujan deras di hulu — lahar dingin bisa datang tiba-tiba meski di lokasi Anda tidak hujan. (2) Dengarkan bunyi gemuruh dari arah sungai yang berhulu di gunung berapi — ini tanda lahar sedang turun. (3) Segera jauhi sempadan sungai dan jangan menyeberangi sungai saat hujan di hulu. (4) Evakuasi ke dataran tinggi tegak lurus dari aliran sungai, minimal 100 meter dari tepi. (5) Jangan masuk ke dalam bangunan di tepi sungai — lahar dingin bisa menghancurkan dinding bata dalam hitungan detik. (6) Pantau informasi PVMBG atau aplikasi MAGMA Indonesia untuk status gunung berapi aktif di wilayah Anda."
+  },
+  {
+    "chunk_id": "longsor_praktis_015",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "shelter_darurat_pasca_longsor",
+    "language": "id",
+    "text": "Cara mendirikan shelter darurat yang aman setelah longsor saat menunggu evakuasi resmi: (1) Pilih lokasi di tanah datar dan keras, jauh minimal 50 meter dari tepi lereng atau tebing. (2) Hindari area di bawah pohon besar yang akarnya mungkin sudah terguncang. (3) Gunakan terpal, atap seng bekas, atau anyaman daun kelapa sebagai pelindung hujan. (4) Buat parit kecil di sekeliling shelter untuk mengalirkan air hujan agar lantai tetap kering. (5) Tidurkan korban di atas alas (kayu, karton, daun tebal) untuk mencegah hipotermia dari tanah basah. (6) Pasang tanda atau lampu di atas shelter agar mudah terlihat oleh tim SAR dari udara maupun darat. Kapasitas ideal satu shelter darurat: maksimal 10 orang."
+  },
+  {
+    "chunk_id": "longsor_praktis_016",
+    "disaster_type": "longsor",
+    "source": "sigap_ai_generated",
+    "topic": "trauma_psikologis_pasca_longsor_pertolongan_pertama",
+    "language": "id",
+    "text": "Pertolongan pertama psikologis (Psychological First Aid) untuk korban longsor: (1) HADIR: dampingi korban secara fisik — kehadiran orang lain menurunkan respons panik. (2) DENGARKAN: biarkan korban bercerita tanpa dipotong atau dievaluasi. Jangan paksa berbicara jika mereka memilih diam. (3) VALIDASI: katakan 'Wajar kamu merasa seperti itu, ini situasi yang sangat berat.' Jangan minimalkan perasaan mereka. (4) KEBUTUHAN DASAR: pastikan korban mendapat air, makanan, dan tempat berteduh sebelum intervensi verbal apapun. (5) ANAK-ANAK: biarkan menggambar atau bermain sederhana — ini cara mereka memproses trauma. Hindari memaksa anak menjelaskan apa yang mereka alami. (6) Tanda butuh rujukan profesional: tidak tidur lebih dari 3 hari, halusinasi, atau agresif ke sesama pengungsi."
+  },
+  {
+    "chunk_id": "sigap_p3k_pingsan_orang_dewasa_001",
+    "disaster_type": "kedaruratan_medis",
+    "source": "panduan_p3k_tanggap.txt",
+    "topic": "penanganan_pingsan",
+    "language": "id",
+    "text": "Jika seseorang pingsan atau tidak sadar: 1) Panggil namanya keras-keras dan tepuk bahunya. 2) Cek napas — lihat dada naik turun, dengar suara napas, rasakan hembusan. 3) Jika bernapas, baringkan miring (posisi pemulihan) agar lidah tidak menyumbat tenggorokan. 4) Jika tidak bernapas, mulai RJP: tekan dada 30x lalu napas buatan 2x, ulangi. 5) Jangan beri minum orang yang tidak sadar. 6) Longgarkan pakaian di leher dan dada. 7) Jaga korban tetap hangat. 8) Segera cari bantuan medis.",
+    "phase": "respon"
+  },
+  {
+    "chunk_id": "sigap_gempa_dalam_gedung_bertingkat_001",
+    "disaster_type": "gempa",
+    "source": "panduan_gempa_tanggap.txt",
+    "topic": "tindakan_gempa_dalam_gedung",
+    "language": "id",
+    "text": "Saat gempa terjadi di dalam gedung: 1) JANGAN langsung lari keluar — bahaya reruntuhan di pintu dan tangga. 2) Segera berlindung di bawah meja kokoh atau di samping dinding struktural. 3) Lindungi kepala dan leher dengan tangan. 4) Jauhi jendela kaca, lemari, dan benda berat. 5) Jika tidak ada meja, berlutut di pojok ruangan sambil melindungi kepala. 6) Baru keluar setelah guncangan berhenti — gunakan tangga darurat, bukan lift. 7) Di lantai atas gedung tinggi: waspadai ayunan gedung, bukan tanda runtuh. 8) Berkumpul di titik evakuasi yang sudah ditentukan.",
+    "phase": "respon"
+  },
+  {
+    "chunk_id": "sigap_status_siaga_bencana_level_001",
+    "disaster_type": "umum",
+    "source": "panduan_siaga_tanggap.txt",
+    "topic": "status_siaga_level",
+    "language": "id",
+    "text": "Status siaga bencana di Indonesia terdiri dari: Siaga 3 — potensi bencana ada, pantau informasi BMKG/BPBD, siapkan tas darurat. Siaga 2 — ancaman nyata, bersiap evakuasi kapan saja, hubungi BPBD setempat. Siaga 1 — bencana sudah terjadi atau sangat mengancam, segera evakuasi sekarang jangan tunggu perintah. Skala gempa: di bawah 4.0 SR biasanya tidak merusak, 4.0-5.9 SR bisa merusak bangunan lemah, 6.0 ke atas berpotensi merusak luas. Magnitudo dan skala Richter berbeda metode ukur tapi sering dipakai bergantian.",
+    "phase": "pra_bencana"
+  },
+  {
+    "chunk_id": "bnpb_banjir_longsor_arus_kedalaman_006b",
+    "disaster_type": "banjir",
+    "source": "buku_pedoman_latihan_kesiapsiagaan_bencana_bnpb_2017.txt",
+    "topic": "bahaya_arus_banjir_kedalaman",
+    "language": "id",
+    "text": "Dalam evakuasi banjir, arus setinggi 15 cm cukup untuk menjatuhkan orang dewasa dan arus 60 cm dapat menghanyutkan mobil. Gunakan tongkat untuk mengecek kedalaman air sebelum melangkah. Jangan pernah menyeberangi arus yang mengalir deras meski terlihat dangkal. Jika terpaksa menyeberang, lepaskan tas berat, gunakan tali pengaman jika ada, dan pilih titik penyeberangan yang paling sempit dan tenang.",
+    "phase": "respon"
+  },
+  {
+    "chunk_id": "bnpb_banjir_sop_siaga_psn_010b",
+    "disaster_type": "banjir",
+    "source": "manajemen_risiko_bencana.txt",
+    "topic": "siaga_banjir_dan_psn_pasca_banjir",
+    "language": "id",
+    "text": "Pemahaman Siaga Banjir I-IV: Siaga IV (Normal) tidak ada tindakan khusus. Siaga III (Waspada) mulai pantau dan siapkan tas darurat. Siaga II (Siaga) matikan listrik, amankan barang ke tempat tinggi, siap evakuasi. Siaga I (Awas) segera evakuasi tanpa menunggu. Pasca banjir: Waspadai instalasi listrik yang basah, binatang berbisa seperti ular yang ikut terbawa banjir, dan lakukan PSN (Pemberantasan Sarang Nyamuk) — kuras, tutup, kubur tempat genangan air untuk mencegah demam berdarah.",
+    "phase": "respon"
+  },
+    {
+      "chunk_id": "sigap_gempa_malam_hari_gelap_001",
+      "disaster_type": "gempa",
+      "source": "panduan_kesiapsiagaan_gempa_bnpb_2012.txt",
+      "topic": "tindakan_gempa_malam_hari_kondisi_gelap",
+      "language": "id",
+      "text": "Gempa yang terjadi malam hari saat tidur membutuhkan respons berbeda karena kondisi gelap dan disorientasi. Saat terbangun akibat guncangan: (1) JANGAN langsung melompat dari tempat tidur — gulingkan tubuh ke sisi tempat tidur dan berlindung di bawahnya atau di sebelah kasur (kasur menyerap benturan benda jatuh). (2) Lindungi kepala dan leher dengan bantal atau kedua tangan. (3) Tunggu guncangan berhenti sepenuhnya sebelum bergerak. (4) Jangan menyalakan korek api atau lighter — risiko kebocoran gas pasca gempa sangat tinggi; gunakan senter atau lampu darurat yang sudah disiapkan sebelumnya. (5) Hapalkan rute keluar rumah dalam gelap sebelum bencana terjadi — latih anggota keluarga berjalan ke pintu keluar dengan mata tertutup. (6) Simpan senter dan alas kaki di samping tempat tidur sebagai bagian dari kesiapsiagaan rutin. Pijakan kaki tanpa alas sangat berbahaya karena pecahan kaca dan puing sering berserakan di lantai pasca gempa.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_gempa_tempat_ramai_kerumunan_002",
+      "disaster_type": "gempa",
+      "source": "panduan_kesiapsiagaan_gempa_bnpb_2012.txt",
+      "topic": "tindakan_gempa_di_tempat_ramai_dan_pusat_perbelanjaan",
+      "language": "id",
+      "text": "Gempa di tempat ramai seperti mall, pasar, atau stadion memerlukan kewaspadaan ekstra terhadap bahaya injak-menginjak selain bahaya struktural. Tindakan yang benar: (1) Berlindung di bawah meja, bangku kokoh, atau di samping tiang struktural beton — jauhi rak barang, etalase kaca, dan papan reklame gantung. (2) JANGAN berlari ke pintu keluar saat guncangan masih terjadi — kerumunan yang panik di pintu sempit menyebabkan lebih banyak korban. (3) Jauhi eskalator yang otomatis berhenti saat listrik padam. (4) Setelah guncangan berhenti, ikuti arahan petugas atau security; jika tidak ada, bergerak tenang ke tangga darurat yang ditandai rambu hijau. (5) Jangan gunakan lift meski listrik masih menyala — gempa susulan dapat menjebak penumpang. (6) Di area parkir bawah tanah, segera naik ke permukaan melalui tangga — hindari berdiam di struktur bawah tanah. (7) Di pasar tradisional, waspadai tiang besi lapak dan atap seng yang mudah runtuh.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_gempa_likuifaksi_tanah_lunak_003",
+      "disaster_type": "gempa",
+      "source": "pvmbg_panduan_bahaya_likuifaksi_2019.txt",
+      "topic": "likuifaksi_tanah_pasca_gempa_pengenalan_dan_tindakan",
+      "language": "id",
+      "text": "Likuifaksi adalah fenomena tanah berpasir jenuh air yang berubah sifat menjadi seperti cairan akibat getaran gempa, menyebabkan bangunan amblas atau miring secara tiba-tiba. Peristiwa ini tercatat besar-besaran pada Gempa Palu 2018 di Kelurahan Petobo dan Balaroa yang menelan ratusan korban. Tanda-tanda likuifaksi yang harus dikenali: tanah terasa seperti pasir hidup di bawah kaki, semburan pasir atau lumpur muncul dari celah tanah, bangunan di sekitar mulai miring atau ambles dalam hitungan menit pasca gempa. Zona berisiko tinggi: daerah reklamasi pantai, dataran banjir sungai purba, dan tanah timbunan yang tidak dipadatkan dengan baik. Tindakan darurat: (1) Segera tinggalkan area yang menunjukkan tanda likuifaksi — bergerak ke tanah keras seperti bukit atau batuan dasar. (2) Jangan kembali ke bangunan yang sudah miring meski tampak stabil. (3) Laporkan kejadian ke PVMBG atau BPBD untuk pemetaan zona bahaya. Peta KRB likuifaksi tersedia di inarisk.bnpb.go.id.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_gempa_susulan_kapan_aman_004",
+      "disaster_type": "gempa",
+      "source": "bmkg_panduan_gempa_susulan_2020.txt",
+      "topic": "panduan_gempa_susulan_dan_kapan_kembali_ke_bangunan",
+      "language": "id",
+      "text": "Gempa susulan (aftershock) hampir selalu terjadi setelah gempa utama dan dapat berlangsung selama beberapa jam hingga beberapa bulan. Panduan BMKG: gempa susulan terkuat biasanya terjadi dalam 24 jam pertama dengan magnitudo rata-rata 1,2 poin lebih rendah dari gempa utama. Protokol keamanan pasca gempa: (1) Tetap di luar bangunan setidaknya selama 30 menit setelah guncangan utama berhenti. (2) Jangan masuk kembali ke bangunan yang retak, miring, atau terdengar suara berderit — tunggu inspeksi dari petugas teknis BPBD. (3) Jika harus mengambil barang penting, masuk berdua — satu orang di luar sebagai pengawas, waktu di dalam maksimal 3 menit. (4) Ikuti informasi resmi BMKG melalui aplikasi InfoBMKG atau inatews.bmkg.go.id untuk pembaruan status gempa susulan. (5) Bangunan yang aman untuk kembali ditandai stiker hijau oleh petugas asesmen BPBD; stiker kuning berarti hanya boleh masuk sementara, stiker merah dilarang masuk. (6) Waspada ekstra jika hujan turun pasca gempa — lereng yang sudah retak akibat gempa sangat rentan longsor.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_gempa_keluarga_terpisah_komunikasi_005",
+      "disaster_type": "gempa",
+      "source": "bnpb_rencana_kedaruratan_keluarga_2018.txt",
+      "topic": "protokol_keluarga_terpisah_saat_bencana",
+      "language": "id",
+      "text": "Bencana sering terjadi saat anggota keluarga berada di lokasi berbeda — anak di sekolah, orang tua di kantor. Rencana komunikasi keluarga harus disiapkan sebelum bencana: (1) Tetapkan SATU titik kumpul keluarga di dekat rumah (misalnya masjid pojok RT) dan SATU titik kumpul alternatif lebih jauh (misalnya kantor kelurahan) jika titik pertama tidak aman. (2) Tetapkan SATU kontak keluarga di luar kota sebagai pusat informasi — lebih mudah menelepon lintas kota daripada dalam kota yang jaringannya overload. (3) Ajarkan anak sejak dini: nama lengkap orang tua, nomor telepon, dan alamat titik kumpul. (4) Pastikan guru dan sekolah tahu siapa yang boleh menjemput anak saat bencana jika orang tua tidak bisa datang. (5) Jika tidak bisa bertemu di titik kumpul, tinggalkan pesan tertulis di pintu rumah: 'Kami selamat, menuju ke [lokasi].' (6) SMS lebih andal dari telepon saat jaringan padat — kirim SMS singkat ke seluruh keluarga setelah selamat. (7) Daftarkan keluarga ke Safe and Well Registry jika tersedia di posko BPBD setempat.",
+      "phase": "pra_bencana"
+    },
+    {
+      "chunk_id": "sigap_banjir_malam_listrik_mati_001",
+      "disaster_type": "banjir",
+      "source": "panduan_banjir_dki_jakarta_2020.txt",
+      "topic": "evakuasi_banjir_malam_hari_dan_kondisi_gelap",
+      "language": "id",
+      "text": "Banjir yang datang malam hari saat listrik padam membutuhkan persiapan dan respons khusus. Tindakan saat banjir terjadi malam hari: (1) Matikan MCB/sekring utama dari posisi berdiri di tempat kering sebelum air mencapai panel listrik — jangan menyentuh panel listrik dalam kondisi basah. (2) Gunakan senter, headlamp, atau lampu darurat yang sudah disiapkan — nyala layar ponsel cadangkan untuk navigasi darurat saja. (3) Kenali jalur evakuasi rumah dalam kondisi gelap: latih keluarga berjalan ke titik kumpul tanpa penerangan saat kondisi normal. (4) Pasang tanda fosfor atau reflektif di tangga dan pintu keluar utama sebagai panduan visual dalam gelap. (5) Saat berjalan dalam air di kondisi gelap, gunakan tongkat atau galah untuk mengecek kedalaman dan mendeteksi lubang got atau selokan yang tidak terlihat. (6) Evakuasi anak-anak dan lansia terlebih dahulu dengan cara digendong atau dipapah; jangan lepaskan pegangan di air gelap. (7) Jika terpaksa menunggu di dalam rumah, naik ke lantai tertinggi dan nyalakan sinyal menggunakan senter atau peluit ke arah petugas atau perahu evakuasi.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_banjir_dalam_kendaraan_evakuasi_002",
+      "disaster_type": "banjir",
+      "source": "bnpb_panduan_keselamatan_transportasi_bencana_2019.txt",
+      "topic": "evakuasi_darurat_dari_kendaraan_yang_terendam_banjir",
+      "language": "id",
+      "text": "Kendaraan yang terendam banjir adalah perangkap mematikan karena tekanan air mencegah pintu dibuka. Data BNPB menunjukkan korban banjir dalam kendaraan meningkat setiap tahun. Protokol keselamatan: (1) JANGAN mencoba menerobos banjir jika air sudah mencapai knalpot atau ban setengah terendam — kendaraan dapat kehilangan traksi dan terseret arus. (2) Jika kendaraan mulai terseret, jangan panik — buka jendela segera selagi listrik masih menyala; setelah listrik mati akibat air, kaca elektrik tidak berfungsi. (3) Jika pintu tidak bisa dibuka karena tekanan air: TUNGGU hingga kabin terisi air hingga tekanan seimbang, baru dorong pintu dengan kaki — ini berlawanan dengan naluri tapi secara fisik satu-satunya cara. (4) Alternatif: pecahkan kaca jendela samping menggunakan pemecah kaca darurat (simpan di konsol tengah) atau ujung besi benda keras, arahkan ke sudut kaca bukan ke tengah. (5) Setelah keluar, berenang ke permukaan dan menjauh dari kendaraan — hindari tersangkut di bagian kendaraan. (6) Selalu simpan alat pemecah kaca dan pemotong sabuk pengaman di dalam kendaraan sebagai perlengkapan darurat banjir.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_banjir_rob_pasang_laut_pesisir_003",
+      "disaster_type": "banjir",
+      "source": "bmkg_panduan_banjir_rob_2021.txt",
+      "topic": "banjir_rob_pasang_laut_karakteristik_dan_tindakan",
+      "language": "id",
+      "text": "Banjir rob adalah genangan air laut yang masuk ke daratan akibat pasang tinggi, sering diperparah oleh penurunan muka tanah (land subsidence). Berbeda dari banjir hujan, banjir rob bersifat siklikal mengikuti siklus bulan dan dapat diprediksi. Daerah rentan di Indonesia: pesisir utara Jakarta, Semarang, Demak, Pekalongan, dan Surabaya. Karakteristik khusus: air rob mengandung garam sehingga lebih merusak peralatan elektronik, logam, dan bahan bangunan dibanding banjir air tawar. Tindakan khusus banjir rob: (1) Pantau prediksi pasang surut BMKG melalui aplikasi InfoBMKG atau website bmkg.go.id/pasang-surut — rob paling tinggi biasanya terjadi saat purnama atau bulan baru. (2) Lapisi pintu dan lubang angin dengan sandbag atau plastik tebal sebelum air masuk. (3) Angkat perabot dan peralatan listrik minimal 30 cm dari lantai sebagai tindakan antisipatif. (4) Setelah rob surut, bilas semua permukaan yang terpapar air laut dengan air tawar untuk mencegah korosi. (5) Jangan mengonsumsi air sumur yang terkontaminasi air rob — salinitas tinggi menyebabkan dehidrasi. (6) Pantau kondisi pondasi rumah secara rutin — land subsidence di daerah rob menyebabkan penurunan pondasi yang memperparah risiko genangan setiap tahun.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_banjir_leptospirosis_penyakit_pasca_004",
+      "disaster_type": "banjir",
+      "source": "kemenkes_panduan_penyakit_pasca_banjir_2020.txt",
+      "topic": "leptospirosis_dan_penyakit_menular_pasca_banjir",
+      "language": "id",
+      "text": "Leptospirosis adalah penyakit bakteri yang ditularkan melalui air atau tanah yang terkontaminasi urin tikus, sangat umum terjadi pasca banjir di Indonesia dan berpotensi fatal jika tidak ditangani cepat. Gejala awal muncul 2-30 hari setelah paparan: demam tinggi mendadak, nyeri otot betis yang hebat (tanda khas), sakit kepala, mata merah, dan mual. Fase berat (Weil's disease): kulit dan mata menguning, gagal ginjal, perdarahan. Pencegahan saat banjir: (1) Selalu gunakan sepatu bot karet atau alas kaki tertutup saat beraktivitas di air banjir — hindari kontak kulit dengan air banjir, terutama jika ada luka terbuka. (2) Cuci tangan dengan sabun setelah kontak dengan air banjir. (3) Jangan berenang atau bermain di air banjir. (4) Konsumsi air yang sudah dimasak atau air kemasan. Tindakan jika bergejala: segera ke puskesmas atau IGD dan sebutkan riwayat kontak dengan air banjir kepada dokter — pengobatan antibiotik doksisiklin atau penisilin efektif jika diberikan sejak awal. Leptospirosis dapat dilaporkan ke Dinas Kesehatan setempat sebagai kasus KLB.",
+      "phase": "recovery"
+    },
+    {
+      "chunk_id": "sigap_banjir_anak_keselamatan_khusus_005",
+      "disaster_type": "banjir",
+      "source": "unicef_panduan_perlindungan_anak_bencana_2018.txt",
+      "topic": "keselamatan_anak_saat_banjir_panduan_khusus",
+      "language": "id",
+      "text": "Anak-anak menghadapi risiko lebih tinggi saat banjir karena postur tubuh yang lebih pendek dari orang dewasa — ketinggian air yang aman bagi orang dewasa bisa mematikan bagi anak. Panduan khusus anak saat banjir: (1) Anak di bawah 5 tahun HARUS digendong — jangan dibiarkan berjalan dalam air meski dangkal, karena arus 10 cm sudah cukup menjatuhkan balita. (2) Anak usia 6-12 tahun: pegang tangan erat, berikan instruksi singkat dan tenang seperti 'Pegang tangan Ayah, kita berjalan pelan ke tempat tinggi.' (3) Jangan tinggalkan anak sendirian meskipun hanya sebentar saat proses evakuasi berlangsung. (4) Perhatikan tanda hipotermia pada anak: menggigil, bibir membiru, lesu — anak lebih cepat mengalami hipotermia dibanding orang dewasa. (5) Bawa mainan atau benda favorit anak jika memungkinkan — membantu menenangkan anak di pengungsian. (6) Setelah aman, berikan penjelasan sederhana dan jujur kepada anak tentang situasi yang terjadi — kebohongan 'tidak terjadi apa-apa' dapat memperparah trauma psikologis. (7) Pantau tanda stres pasca trauma pada anak: mimpi buruk, mengompol kembali, atau perilaku menarik diri.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_kedaruratan_rjp_awam_3langkah_001",
+      "disaster_type": "kedaruratan_medis",
+      "source": "permenkes_no_47_tahun_2018_pertolongan_pertama.txt",
+      "topic": "rjp_resusitasi_jantung_paru_untuk_orang_awam",
+      "language": "id",
+      "text": "RJP (Resusitasi Jantung Paru) atau CPR adalah tindakan darurat untuk korban yang tidak bernapas dan tidak ada denyut nadi. Standar RJP awam menurut panduan American Heart Association yang diadopsi Kemenkes RI: LANGKAH 1 — PASTIKAN AMAN: Cek keamanan lokasi. Tepuk bahu korban keras dan panggil namanya. Jika tidak respons, minta seseorang menelepon 118/119 segera. LANGKAH 2 — TEKAN DADA (Kompresi): Posisikan tumit telapak tangan di tengah dada (antara puting susu). Tangan lurus, tekan sedalam 5-6 cm dengan kecepatan 100-120 kali per menit (ikuti irama lagu 'Stayin' Alive'). Biarkan dada naik penuh sebelum tekan berikutnya. Lakukan 30 kali kompresi. LANGKAH 3 — NAPAS BUATAN (opsional bagi awam): Miringkan kepala, angkat dagu, tutup hidung, tiupkan udara selama 1 detik hingga dada mengembang — 2 kali tiupan. Ulangi siklus 30 kompresi : 2 napas buatan. Jika tidak mau/mampu memberi napas buatan, lanjutkan kompresi dada terus-menerus tanpa henti. Terus lakukan hingga bantuan medis tiba atau korban bernapas kembali. Jangan berhenti kecuali sudah kelelahan total.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_kedaruratan_ibu_hamil_bencana_001",
+      "disaster_type": "kedaruratan_medis",
+      "source": "kemenkes_panduan_kegawatan_obstetri_bencana_2019.txt",
+      "topic": "keselamatan_ibu_hamil_saat_bencana_dan_persalinan_darurat",
+      "language": "id",
+      "text": "Ibu hamil termasuk kelompok paling rentan dalam bencana karena kebutuhan fisik dan medis yang khusus. Panduan evakuasi ibu hamil: (1) Prioritaskan ibu hamil trimester ketiga (7-9 bulan) dalam antrian evakuasi — mobilitas terbatas dan risiko persalinan prematur akibat stres tinggi. (2) Hindari medan terjal, berlari, atau gerakan mendadak — jalan perlahan dan stabil. (3) Di pengungsian, pastikan ibu hamil mendapat prioritas tempat tidur (bukan lantai), akses toilet bersih, dan makanan bergizi. (4) Catat dan bawa catatan buku KIA (Kesehatan Ibu dan Anak) dalam Tas Siaga Bencana. Pertolongan pertama jika kontraksi dimulai saat evakuasi: (1) Hentikan pergerakan, cari tempat aman dan bersih. (2) Hubungi bidan atau 118 segera. (3) Posisikan ibu berbaring miring ke kiri untuk melancarkan sirkulasi. (4) Jika persalinan tidak bisa ditahan: cuci tangan bersih, siapkan alas bersih, dukung kepala bayi keluar perlahan — jangan tarik. Potong tali pusar hanya dengan benda steril jika tersedia; jika tidak, biarkan terhubung hingga bantuan medis tiba.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_longsor_berkendara_jalan_pegunungan_001",
+      "disaster_type": "longsor",
+      "source": "kemenhub_panduan_keselamatan_jalan_pegunungan_2020.txt",
+      "topic": "tindakan_longsor_saat_berkendara_di_jalan_pegunungan",
+      "language": "id",
+      "text": "Longsor yang menutup jalan pegunungan adalah situasi berbahaya karena pengemudi bisa terjebak antara dua titik longsoran. Cara membaca tanda bahaya longsor di jalan: (1) Tebing berwarna segar kecoklatan atau kemerahan (tanah terbuka baru) di sisi jalan — tanda longsor kecil sudah terjadi baru-baru ini. (2) Limpasan air keruh memotong jalanan meski tidak sedang hujan di lokasi. (3) Retakan memanjang di aspal jalan sejajar dengan tebing. (4) Batu-batu kecil atau tanah jatuh sporadis dari tebing atas. Tindakan berkendara aman: (1) Jika melihat tanda bahaya, jangan berhenti di bawah tebing — mundur ke titik aman atau terus maju melewati zona berbahaya dengan kecepatan stabil jika jalan masih terbuka. (2) Jika jalan tertutup longsoran di depan DAN belakang: tinggalkan kendaraan segera, jauhi tebing minimum 50 meter ke sisi yang berlawanan (ladang atau jurang lebih aman dari tebing aktif). (3) Nyalakan lampu hazard kendaraan sebagai tanda posisi untuk tim SAR. (4) Jangan bertahan di dalam kendaraan di bawah tebing meski hujan — risiko longsor susulan jauh lebih besar dari risiko hujan.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_kedaruratan_luka_bakar_lapangan_001",
+      "disaster_type": "kedaruratan_medis",
+      "source": "permenkes_no_47_tahun_2018_pertolongan_pertama.txt",
+      "topic": "penanganan_luka_bakar_di_lapangan_saat_bencana",
+      "language": "id",
+      "text": "Luka bakar adalah cedera yang sangat sering terjadi pada gempa (kebakaran akibat korsleting atau kebocoran gas) dan erupsi gunungapi (lontaran material panas). Klasifikasi dan penanganan luka bakar di lapangan: LUKA BAKAR RINGAN (merah, nyeri, tidak ada lepuhan): (1) Dinginkan segera dengan air mengalir bersih selama minimal 20 menit — air dingin, bukan es, bukan odol, bukan kecap. (2) Tutup dengan kain bersih yang lembab. LUKA BAKAR SEDANG (lepuhan/melepuh): (1) Dinginkan dengan air mengalir 20 menit. (2) JANGAN pecahkan lepuhan — melindungi dari infeksi. (3) Tutup longgar dengan perban atau kain bersih basah. (4) Segera bawa ke fasilitas kesehatan. LUKA BAKAR BERAT (kulit hangus, berwarna putih/hitam, tidak terasa nyeri): (1) JANGAN rendam atau aliri air dalam jumlah besar — risiko hipotermia. (2) Tutup longgar dengan kain bersih kering. (3) Jangan lepas pakaian yang menempel di luka bakar — potong di sekitarnya saja. (4) Imobilisasi korban dan hubungi 118 segera. YANG DILARANG: mengoleskan odol, mentega, kecap, atau bahan lainnya pada luka bakar — memperparah infeksi dan menyulitkan penanganan medis. Luka bakar wajah, tangan, atau selangkangan selalu dianggap berat meski terlihat ringan.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_banjir_terbawa_arus_bertahan_001",
+      "disaster_type": "banjir",
+      "source": "basarnas_panduan_water_rescue_2019.txt",
+      "topic": "bertahan_hidup_saat_terbawa_arus_banjir",
+      "language": "id",
+      "text": "Terbawa arus banjir adalah situasi darurat dengan risiko kematian tinggi akibat tenggelam, benturan benda keras, atau hipotermia. Teknik bertahan yang diajarkan Basarnas: POSISI DEFENSIVE SWIMMING: Balikkan tubuh menghadap ke atas (telentang), kaki mengarah ke hilir (searah arus), lutut sedikit ditekuk untuk menahan benturan batu atau benda — JANGAN kaki mengarah ke hulu karena kepala akan terbentur benda keras. Kedua tangan direntangkan untuk keseimbangan dan dayung perlahan mengarah ke tepi sungai. MENCAPAI TEPI: Jangan mencoba berenang melawan arus — berenang diagonal sekitar 45 derajat ke arah tepi sungai, mengikuti arus sambil bergerak ke samping. Cari tikungan bagian dalam sungai yang arusnya lebih lemah. JIKA ADA BENDA TERAPUNG: Raih dan pegangi benda apung besar (pohon, galon, jeriken) — jangan melepaskan tenaga untuk berenang jika benda apung sudah ditemukan. Tiup pakaian lengan panjang atau celana panjang yang diikat ujungnya sebagai pelampung improvisasi. JIKA TERSANGKUT: Jika kaki tersangkut di bawah air, segera balikkan posisi telungkup dan dorong kaki ke permukaan — tersangkut dalam posisi berdiri dengan arus deras dapat menjebak korban secara fatal (foot entrapment). Hubungi SAR 115 segera setelah sampai ke tempat aman.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_banjir_pemurnian_air_darurat_002",
+      "disaster_type": "banjir",
+      "source": "kemenkes_panduan_air_bersih_darurat_bencana_2019.txt",
+      "topic": "pemurnian_air_minum_darurat_saat_bencana",
+      "language": "id",
+      "text": "Air bersih adalah kebutuhan pertama dan paling kritis di semua situasi bencana. Jika pasokan air bersih terputus, gunakan metode pemurnian berikut secara bertahap: METODE 1 — MEREBUS (paling aman dan andal): Didihkan air selama minimal 1 menit (di dataran tinggi >2000 mdpl: minimal 3 menit). Biarkan dingin dalam wadah tertutup — jangan campur dengan air mentah. METODE 2 — KLORINASI dengan pemutih/bayclin: Gunakan pemutih pakaian tanpa pewangi berkonsentrasi 5,25% (cek label). Tambahkan 2 tetes per liter air jernih, atau 4 tetes per liter air keruh. Aduk dan diamkan 30 menit sebelum diminum. Jika setelah 30 menit air tidak berbau klorin samar, tambahkan dosis yang sama dan tunggu 15 menit lagi. METODE 3 — TABLET KLORIN/WATER PURIFICATION: Ikuti petunjuk kemasan. Tersedia di apotek dan posko BPBD. PENGENDAPAN sebelum pemurnian: Untuk air keruh, tambahkan 1 sendok teh tawas per 25 liter air, aduk, dan biarkan mengendap 30 menit sebelum disaring dan dimurnikan. YANG TIDAK AMAN: air banjir langsung meski direbus jika mengandung kontaminan kimia industri — di sekitar kawasan industri, gunakan hanya air kemasan atau pasokan resmi BPBD. Konsumsi minimal air: 2 liter per orang per hari untuk minum, 15 liter untuk kebutuhan dasar total.",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_banjir_penyakit_pasca_banjir_003",
+      "disaster_type": "banjir",
+      "source": "kemenkes_panduan_penyakit_pasca_banjir_2020.txt",
+      "topic": "penyakit_menular_pasca_banjir_diare_ispa_kulit",
+      "language": "id",
+      "text": "Selain leptospirosis, beberapa penyakit berikut sangat umum menyerang korban dan pengungsi banjir dan dapat menjadi wabah jika tidak ditangani cepat: DIARE AKUT: Penyebab utama kematian di pengungsian, terutama pada anak. Tanda: BAB cair lebih dari 3 kali sehari, mual, kram perut. Penanganan: minum oralit (1 bungkus per 200ml air matang) setiap BAB cair; jika tidak ada oralit, buat sendiri: 1 liter air matang + 1 sendok teh garam + 8 sendok teh gula. Segera ke puskesmas jika ada darah dalam tinja atau tidak membaik dalam 24 jam. ISPA (Infeksi Saluran Pernapasan Atas): Batuk, pilek, demam — menular cepat di pengungsian padat. Pencegahan: cuci tangan, masker, ventilasi shelter. PENYAKIT KULIT (Tinea, Dermatitis): Gatal-gatal, ruam, bercak jamur akibat lembap dan kurang sanitasi. Pencegahan: keringkan tubuh dan kaki setelah kontak air, ganti pakaian basah. Pengobatan: salep antijamur (klotrimazol) tersedia di posko kesehatan. KONJUNGTIVITIS (Mata Merah): Menular sangat cepat di pengungsian. Jangan gosok mata, cuci dengan air bersih, jangan berbagi handuk. PENCEGAHAN UMUM di pengungsian: cuci tangan dengan sabun sebelum makan dan setelah BAB adalah intervensi paling efektif mencegah semua penyakit di atas.",
+      "phase": "recovery"
+    },
+    {
+      "chunk_id": "sigap_gempa_korban_tertimbun_usar_001",
+      "disaster_type": "gempa",
+      "source": "basarnas_panduan_urban_search_rescue_2020.txt",
+      "topic": "pertolongan_korban_tertimbun_reruntuhan_gempa_dasar",
+      "language": "id",
+      "text": "Korban tertimbun reruntuhan akibat gempa membutuhkan pertolongan cepat — peluang selamat turun drastis setelah 72 jam (golden period). Panduan USAR (Urban Search and Rescue) dasar untuk masyarakat awam sebelum tim profesional tiba: DETEKSI KORBAN: Minta semua orang diam total selama 1 menit, dengarkan suara ketukan, erangan, atau teriakan dari bawah reruntuhan. Panggil nama korban dan minta mereka mengetuk permukaan keras 3 kali jika sadar. PENGGALIAN MANUAL YANG AMAN: (1) Jangan langsung menarik korban — stabilkan dulu material di atasnya agar tidak ambruk lebih lanjut. (2) Gali dari sisi, bukan dari atas langsung. (3) Buat terowongan kecil untuk akses oksigen dan komunikasi dulu sebelum mengeluarkan korban. (4) Minimal 3 orang: satu gali, satu pindahkan puing, satu pantau stabilitas struktur sekitar. MENGELUARKAN KORBAN: Bebaskan kepala dan dada korban terlebih dahulu untuk memastikan napas. Jika curiga cedera tulang belakang (korban tidak bisa gerakkan kaki, nyeri punggung hebat), JANGAN angkat tanpa stabilisasi kepala dan leher. Gunakan pintu atau papan sebagai tandu improvisasi. BAHAYA YANG PERLU DIWASPADAI: gempa susulan saat penggalian berlangsung — tetapkan satu orang sebagai pemantau dan sepakati sinyal mundur (misalnya 3 tepukan keras).",
+      "phase": "respon"
+    },
+    {
+      "chunk_id": "sigap_kedaruratan_keracunan_gas_co_001",
+      "disaster_type": "kedaruratan_medis",
+      "source": "kemenkes_panduan_keracunan_gas_bencana_2018.txt",
+      "topic": "keracunan_gas_karbon_monoksida_pasca_gempa_dan_kebakaran",
+      "language": "id",
+      "text": "Karbon monoksida (CO) adalah gas tidak berbau dan tidak berwarna yang sangat mematikan, dihasilkan oleh pembakaran tidak sempurna dari kebakaran, genset yang dioperasikan di ruang tertutup, atau kompor arang. Sering disebut 'pembunuh diam-diam' karena korban tidak menyadari sampai kehilangan kesadaran. Gejala keracunan CO (semakin berat seiring paparan): ringan — sakit kepala berdenyut, mual, pusing; sedang — kebingungan, penglihatan kabur, lemah mendadak; berat — kehilangan kesadaran, kejang, henti napas. Tanda khas yang membedakan dari penyakit biasa: SEMUA orang di ruangan yang sama bergejala bersamaan. Tindakan darurat: (1) SEGERA bawa korban ke udara terbuka — penolong WAJIB menahan napas atau menggunakan masker saat masuk ruangan terpapar. (2) Hubungi 118 segera. (3) Baringkan korban dan longgarkan pakaian. (4) Jika tidak bernapas, lakukan RJP. (5) Oksigen murni adalah antidot — prioritas penanganan medis di IGD. PENCEGAHAN di pengungsian: JANGAN operasikan genset, kompor arang, atau pembakaran apapun di dalam tenda atau ruangan tertutup meski ventilasi terlihat cukup. Buka jendela dan pintu selalu saat menggunakan bahan bakar apapun.",
+      "phase": "respon"
+    },
+  {
+    "chunk_id": "recovery_gempa_cek_bangunan_sebelum_masuk_001",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_gempa.txt",
+    "topic": "pemeriksaan_keamanan_bangunan_pasca_gempa",
+    "language": "id",
+    "text": "Sebelum masuk kembali ke rumah pasca gempa, periksa dari luar dulu: (1) Retakan diagonal pada kolom atau dinding struktural — tanda bahaya tinggi, jangan masuk. (2) Dinding miring lebih dari 2 cm dari tegak lurus — bahaya runtuh susulan. (3) Atap turun atau melendut — risiko kolaps. (4) Bau gas — jangan nyalakan korek atau listrik, panggil bantuan. (5) Pintu dan jendela tidak bisa dibuka atau terkunci sendiri — tanda deformasi struktur. Tanda AMAN untuk masuk: retakan hanya pada plester/cat (bukan beton), pintu dan jendela masih bisa dibuka, tidak ada bau gas, bangunan tetap tegak lurus. Jika ragu, tunggu pemeriksaan dari petugas BPBD atau sipil sebelum masuk.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_gempa_gas_listrik_air_pasca_002",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_gempa.txt",
+    "topic": "utilitas_gas_listrik_air_pasca_gempa",
+    "language": "id",
+    "text": "Cara aman memeriksa dan memulihkan utilitas pasca gempa: GAS — Jika mencium bau gas, jangan nyalakan listrik atau korek api. Buka semua jendela dan pintu. Tutup katup gas utama (putar ke posisi tegak lurus pipa). Keluar dari rumah dan hubungi petugas gas. Jangan masuk kembali sampai petugas menyatakan aman. LISTRIK — Sebelum menyalakan listrik kembali, periksa kabel yang terkelupas atau terbakar. Jika panel listrik basah atau rusak, jangan nyalakan. Minta teknisi PLN memeriksa instalasi. Nyalakan satu per satu dari MCB utama ke cabang. AIR — Air dari keran mungkin terkontaminasi pasca gempa. Masak semua air minum minimal 1 menit mendidih. Periksa pipa untuk kebocoran sebelum menggunakan air ledeng kembali.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_gempa_crush_syndrome_003",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pertolongan_pertama_pasca_gempa.txt",
+    "topic": "crush_syndrome_sindrom_penghancuran",
+    "language": "id",
+    "text": "Crush syndrome (sindrom penghancuran) adalah kondisi medis serius yang muncul 12-72 jam setelah seseorang tertimpa reruntuhan. Tanda-tanda: urine berwarna merah tua atau coklat seperti teh, nyeri otot yang menyebar, pembengkakan pada tungkai yang sempat tertimpa, mual dan muntah, tekanan darah turun mendadak. BAHAYA: Ketika seseorang dibebaskan dari reruntuhan setelah tertimpa lama, racun dari otot yang rusak masuk ke darah dan bisa menyebabkan gagal ginjal akut dalam hitungan jam. Tindakan: (1) Minta korban banyak minum air putih segera setelah bebas — target 1 liter per jam jika bisa. (2) Jangan berdirikan korban tiba-tiba. (3) Bawa ke fasilitas kesehatan SEGERA meski korban tampak baik-baik saja. (4) Informasikan kepada tenaga medis bahwa korban sempat tertimpa dan berapa lama.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_gempa_aftershock_gempa_susulan_004",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_gempa.txt",
+    "topic": "menghadapi_gempa_susulan",
+    "language": "id",
+    "text": "Gempa susulan (aftershock) hampir selalu terjadi setelah gempa besar dan bisa berlangsung selama hari hingga minggu. Tindakan saat gempa susulan: (1) Lindungi kepala dengan tangan atau bantal. (2) Jika di dalam bangunan rusak, cari celah pintu atau berlindung di bawah meja kokoh. (3) Jauhi jendela, cermin, dan benda yang bisa jatuh. (4) Jika di luar, menjauh dari bangunan, pohon, dan tiang listrik. Yang TIDAK boleh dilakukan: jangan berlari keluar saat gempa masih berlangsung, jangan menggunakan lift, jangan menyalakan korek atau rokok saat mencium bau gas. Kapan gempa susulan berhenti? Tidak bisa diprediksi. Umumnya intensitas berkurang dalam 24-72 jam pertama, tapi bisa terjadi tanpa peringatan.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_banjir_bersihkan_lumpur_005",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_banjir.txt",
+    "topic": "pembersihan_lumpur_dan_sanitasi",
+    "language": "id",
+    "text": "Membersihkan lumpur pasca banjir harus dilakukan dengan perlindungan diri yang memadai karena lumpur banjir mengandung bakteri, parasit, dan bahan kimia berbahaya. Perlindungan wajib: sepatu bot karet, sarung tangan karet, masker, dan pakaian lengan panjang. Langkah pembersihan: (1) Buang semua makanan, minuman, dan obat-obatan yang terkena banjir — jangan dimakan meski tampak baik. (2) Keluarkan lumpur dengan sekop dari dalam ke luar. (3) Siram lantai dan dinding dengan air bersih. (4) Campurkan 1 liter pemutih pakaian (5% klorin) dengan 9 liter air, lap seluruh permukaan yang terkena lumpur dan biarkan 10 menit, lalu bilas. (5) Buka semua jendela dan pintu untuk ventilasi. (6) Cuci tangan dengan sabun setelah selesai. Perabot kayu yang kena lumpur dan sudah mengering harus dibuang jika berjamur.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_banjir_air_sumur_terkontaminasi_006",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_banjir.txt",
+    "topic": "pemulihan_sumber_air_sumur",
+    "language": "id",
+    "text": "Sumur yang terkena banjir SELALU terkontaminasi dan tidak aman langsung diminum. Cara memulihkan sumur: (1) Kuras seluruh air di sumur sampai habis menggunakan pompa atau ember. (2) Sikat dinding sumur dari atas ke bawah untuk menghilangkan lumpur yang menempel. (3) Biarkan air mengisi kembali secara alami. (4) Kuras lagi satu kali. (5) Masukkan larutan klorin: untuk sumur diameter 1 meter kedalaman 5 meter, larutkan 2 sendok makan kaporit dalam 10 liter air lalu tuangkan ke sumur. (6) Tunggu 12-24 jam sebelum digunakan. (7) Kuras sekali lagi, kemudian air baru bisa digunakan untuk memasak (dengan tetap dimasak mendidih). Selama proses pemulihan, gunakan air kemasan atau air dari distribusi BPBD. Air sumur dinyatakan aman jika jernih, tidak berbau, dan tidak berasa.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_banjir_leptospirosis_pencegahan_007",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_banjir.txt",
+    "topic": "pencegahan_leptospirosis_pasca_banjir",
+    "language": "id",
+    "text": "Leptospirosis adalah penyakit bakteri yang menyebar melalui air atau tanah yang terkontaminasi urine tikus, terutama setelah banjir. Tanda-tanda awal (3-14 hari setelah terkena air banjir): demam tiba-tiba tinggi (38-40°C), sakit kepala parah, nyeri otot betis yang hebat, mata merah, mual dan muntah. Kapan harus ke puskesmas SEGERA: demam lebih dari 38°C disertai nyeri betis setelah terkena banjir. Jangan tunggu. Pencegahan: (1) Selalu gunakan sepatu bot saat membersihkan rumah pasca banjir — jangan bertelanjang kaki. (2) Cuci luka terbuka segera dengan air bersih dan antiseptik. (3) Jangan minum air atau makan makanan yang terkena banjir. (4) Cuci tangan dengan sabun sebelum makan. Leptospirosis bisa fatal jika tidak ditangani dalam 7 hari pertama. Antibiotik tersedia di puskesmas.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_banjir_keamanan_listrik_008",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_banjir.txt",
+    "topic": "keamanan_instalasi_listrik_pasca_banjir",
+    "language": "id",
+    "text": "Listrik adalah salah satu penyebab kematian utama pasca banjir. Aturan wajib: (1) JANGAN masuk ke rumah yang masih terendam air jika listrik belum dimatikan dari panel utama. (2) Minta PLN atau teknisi listrik memeriksa instalasi sebelum menyalakan kembali — gratis di banyak daerah terdampak bencana. (3) Jangan nyalakan listrik jika lantai, dinding, atau panel listrik masih basah. (4) Buang semua stop kontak, saklar, dan panel yang terendam — jangan dipakai lagi meski sudah dikeringkan. (5) Periksa kabel yang melalui air — isolasi karet bisa rusak dari dalam meski luar tampak baik. Tanda bahaya: percikan api saat menyalakan saklar, bau terbakar, atau MCB terus trip. Jika ada, matikan listrik seluruh rumah dan panggil teknisi.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_longsor_tanda_longsor_susulan_009",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_longsor.txt",
+    "topic": "deteksi_ancaman_longsor_susulan",
+    "language": "id",
+    "text": "Longsor susulan sangat umum terjadi, terutama jika hujan kembali turun dalam 24-72 jam setelah longsor pertama. Tanda-tanda longsor akan terjadi kembali: (1) Tanah di lereng atas tampak retak atau bergerak. (2) Pohon-pohon berdiri miring mendadak. (3) Suara gemuruh dari arah lereng. (4) Air sungai tiba-tiba berubah menjadi keruh coklat pekat dan debitnya meningkat drastis tanpa hujan — tanda longsor di hulu. (5) Bau tanah segar atau lumpur yang tidak biasa dari arah lereng. Tindakan saat melihat tanda ini: (1) Segera jauhi lereng dan aliran sungai. (2) Bergerak tegak lurus dari jalur longsor — ke samping, bukan lari lurus ke depan. (3) Jangan kembali ke zona longsor untuk mencari harta benda sampai BPBD menyatakan aman. Zona longsor aktif ditandai pita kuning atau merah dari petugas.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_longsor_cari_korban_aman_010",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_longsor.txt",
+    "topic": "pencarian_korban_longsor_oleh_awam",
+    "language": "id",
+    "text": "Jika ada korban yang diperkirakan tertimbun longsor, tindakan yang aman bagi awam: (1) Dengarkan suara atau ketukan dari bawah material longsor. (2) Tandai lokasi terakhir korban terlihat dengan benda mencolok (kain merah, kayu, dll). (3) Jangan gali sendirian di dekat tebing atau lereng aktif — risiko longsor susulan menimpa penolong. (4) Hubungi Basarnas (115) atau BPBD untuk tim SAR profesional. (5) Jika terpaksa menggali sendiri karena bantuan belum datang: bekerja dari sisi yang jauh dari lereng, jangan dari arah atas material longsor. Pakai tali pengaman yang dipegang orang lain. (6) Gali dari tepi material, bukan dari atas — galian dari atas bisa memperparah tekanan pada korban. (7) Berikan suara kepastian ke korban agar tidak panik: 'Kami di sini, bantuan sedang datang'.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_psikologis_trauma_011",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_psikososial.txt",
+    "topic": "reaksi_normal_trauma_pasca_bencana",
+    "language": "id",
+    "text": "Reaksi emosional pasca bencana adalah NORMAL dan bukan tanda kelemahan. Reaksi umum yang wajar: (1) Sulit tidur atau mimpi buruk tentang bencana. (2) Mudah kaget oleh suara keras. (3) Terus memikirkan kejadian bencana. (4) Marah, sedih, atau menangis tanpa alasan jelas. (5) Sulit berkonsentrasi atau berpikir jernih. (6) Mati rasa atau merasa jauh dari orang lain. Reaksi ini biasanya memuncak dalam 2-3 hari dan perlahan membaik dalam 2-4 minggu. Yang perlu dilakukan: (1) Jangan sendirian — habiskan waktu bersama keluarga atau komunitas. (2) Lakukan rutinitas sederhana seperti makan teratur dan beribadah. (3) Bicara tentang pengalaman kepada orang yang dipercaya. (4) Batasi konsumsi berita tentang bencana. Kapan perlu bantuan profesional: reaksi tidak membaik setelah 4 minggu, atau muncul pikiran menyakiti diri sendiri.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_anak_pasca_bencana_012",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_psikososial.txt",
+    "topic": "mendampingi_anak_pasca_bencana",
+    "language": "id",
+    "text": "Anak-anak menunjukkan stres pasca bencana dengan cara berbeda dari orang dewasa. Tanda-tanda anak mengalami trauma: (1) Mengompol kembali meski sudah tidak. (2) Enggan berpisah dari orang tua. (3) Bermain dengan tema bencana berulang kali. (4) Sulit makan atau tidur. (5) Lebih mudah menangis atau marah. Cara membantu anak: (1) Jaga rutinitas sebisa mungkin — waktu makan, tidur, bermain yang konsisten. (2) Jelaskan kejadian dengan bahasa sederhana yang jujur namun tidak menakutkan: 'Ada bencana, kita sempat takut, tapi sekarang kita sudah aman.' (3) Biarkan anak mengekspresikan perasaan melalui gambar atau bermain. (4) Peluk dan pastikan secara fisik anak merasa aman. (5) Jangan marahi atau melarang anak menangis. Anak biasanya pulih lebih cepat jika orang tua sekitarnya tampak tenang dan memberikan rasa aman.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_dokumen_bantuan_pemerintah_013",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_bantuan_sosial_bencana.txt",
+    "topic": "akses_bantuan_pemerintah_pasca_bencana",
+    "language": "id",
+    "text": "Cara mendapatkan bantuan resmi pasca bencana di Indonesia: (1) PENDATAAN: Daftarkan diri ke RT/RW atau posko BPBD setempat. Bawa dokumen identitas (KTP, KK) jika ada. Jika dokumen hilang karena bencana, tetap daftarkan diri dan jelaskan situasi. (2) BANTUAN LANGSUNG: Hubungi BPBD daerah (nomor di tiap kabupaten/kota berbeda — tanyakan ke RT/RW). Pusdalops BNPB: 0812-1237575. (3) DOKUMEN HILANG: Akta kelahiran dan KK bisa diurus di Dinas Kependudukan (Disdukcapil) setempat — gratis untuk korban bencana. KTP sementara bisa diterbitkan dalam 1 hari. (4) BANTUAN RUMAH: Program BSRS (Bantuan Stimulan Rumah Swadaya) dari Kementerian PUPR untuk rumah rusak bencana — daftarkan melalui BPBD. (5) ASURANSI: Jika punya asuransi jiwa atau properti, segera hubungi agen dan laporkan kerugian dalam 14 hari setelah bencana.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_sanitasi_pengungsian_014",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_kesehatan_pengungsian.txt",
+    "topic": "sanitasi_dan_kesehatan_di_pengungsian",
+    "language": "id",
+    "text": "Menjaga kesehatan di tempat pengungsian adalah prioritas untuk mencegah wabah penyakit pasca bencana. Aturan dasar sanitasi di pengungsian: (1) Cuci tangan dengan sabun sebelum makan dan setelah dari toilet — ini langkah paling penting pencegahan penyakit. (2) Toilet darurat: jarak minimal 30 meter dari sumber air dan tempat memasak. (3) Sampah: kumpulkan di satu titik jauh dari area tidur dan makan, bakar atau kubur setiap hari. (4) Makanan: jangan makan makanan yang sudah lebih dari 4 jam terbuka di udara terbuka. Prioritaskan makanan kemasan atau yang dimasak matang. (5) Air minum: masak sampai mendidih atau gunakan tablet klorin (1 tablet per 20 liter air, tunggu 30 menit). (6) Pemisahan area: pisahkan orang sakit dari yang sehat untuk mencegah penyebaran. Segera laporkan ke petugas jika ada yang diare, demam tinggi, atau muntah berulang.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_gempa_struktur_aman_kembali_015",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_gempa.txt",
+    "topic": "kapan_aman_kembali_ke_rumah_pasca_gempa",
+    "language": "id",
+    "text": "Keputusan kembali ke rumah pasca gempa bergantung pada kondisi bangunan dan status resmi dari pemerintah. Sistem stiker kondisi bangunan pasca gempa di Indonesia: HIJAU — aman untuk ditempati kembali. KUNING — bisa masuk tapi tidak boleh tidur di sana, perbaikan diperlukan sebelum huni. MERAH — DILARANG masuk, bangunan berbahaya, harus dibongkar atau diperkuat secara struktural. Jika belum ada penilaian resmi: (1) Hubungi BPBD setempat untuk minta tim penilai. (2) Sementara menunggu, asumsikan merah jika ada retakan struktural. (3) Bisa ambil barang penting secepat mungkin jika kondisi terlihat stabil, tapi jangan tinggal di dalam. (4) Gempa susulan bisa runtuhkan bangunan yang sudah lemah — jangan tinggal di bangunan rusak.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_banjir_nyamuk_psn_pasca_banjir_016",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_banjir.txt",
+    "topic": "pemberantasan_nyamuk_pasca_banjir",
+    "language": "id",
+    "text": "Pasca banjir, genangan air sisa menjadi tempat berkembang biak nyamuk Aedes (demam berdarah) dan Anopheles (malaria). Pemberantasan Sarang Nyamuk (PSN) wajib dilakukan dalam 3-7 hari pertama setelah banjir surut. Langkah PSN 3M Plus: (1) Kuras — kosongkan semua penampungan air dan sikat dindingnya setiap minggu. (2) Menutup — tutup rapat wadah air. (3) Mendaur ulang/menyingkirkan — buang sampah bekas yang bisa menampung air (kaleng, botol, ban). Plus: Gunakan kelambu saat tidur, pakai lotion anti nyamuk, taburkan bubuk abate (larvasida) di bak mandi jika air tidak bisa dikuras (minta ke puskesmas). Waktu kritis: nyamuk berkembang biak dalam 7-10 hari dari telur ke dewasa — PSN dalam minggu pertama pasca banjir mencegah ledakan kasus DBD 2-3 minggu kemudian.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_p3k_luka_pasca_bencana_017",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pertolongan_pertama.txt",
+    "topic": "penanganan_luka_pasca_bencana",
+    "language": "id",
+    "text": "Luka yang terjadi saat membersihkan pasca bencana berisiko infeksi tinggi karena paparan lumpur, paku, kaca, dan kotoran. Penanganan luka saat bersih-bersih pasca bencana: (1) Hentikan perdarahan dengan tekanan langsung menggunakan kain bersih selama 10 menit tanpa diangkat. (2) Bersihkan luka dengan air mengalir minimal 5 menit untuk menghilangkan kotoran. (3) Oleskan antiseptik (povidone iodine/betadine atau alkohol 70%). (4) Tutup dengan perban steril. (5) Ganti perban setiap hari atau jika basah/kotor. Tanda luka terinfeksi (perlu ke puskesmas): luka memerah melebar, bengkak bertambah, nanah keluar, demam, atau garis merah memanjang dari luka ke arah jantung. Kapan perlu suntik tetanus: luka dalam, kotor, atau tertusuk benda berkarat — segera ke puskesmas untuk profilaksis tetanus.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_makanan_darurat_aman_018",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_kesehatan_pengungsian.txt",
+    "topic": "keamanan_pangan_pasca_bencana",
+    "language": "id",
+    "text": "Pengelolaan makanan aman di kondisi darurat pasca bencana: BUANG tanpa ragu: semua makanan yang terkena air banjir termasuk kemasan kaleng yang bergelembung atau bocor, makanan di kulkas yang tidak dingin lebih dari 4 jam, makanan berbau tidak biasa. AMAN dikonsumsi: makanan kemasan pabrik yang belum dibuka dan tidak terkena banjir, makanan yang dimasak matang dalam 4 jam terakhir, air yang sudah dididihkan. Urutan prioritas makanan darurat: (1) Makanan bergizi tinggi kalori seperti kacang-kacangan, biskuit, atau nasi. (2) Makanan bayi dan formula jika ada anak kecil — prioritaskan distribusinya. (3) Makanan untuk penderita diabetes, hipertensi, atau alergi makanan — informasikan ke petugas posko agar mendapat bantuan khusus. Masak dalam porsi kecil dan habiskan segera — jangan sisakan di suhu ruang lebih dari 2 jam.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_komunikasi_darurat_offline_019",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_komunikasi_bencana.txt",
+    "topic": "komunikasi_saat_jaringan_terputus",
+    "language": "id",
+    "text": "Cara berkomunikasi saat jaringan seluler dan internet terputus pasca bencana: (1) Radio FM/AM portable berbaterai — BMKG dan RRI menyiarkan informasi darurat di frekuensi lokal. (2) Handy talky (HT) — komunitas RAPI (Radio Antar Penduduk Indonesia) aktif membantu koordinasi bencana. Frekuensi umum: 143.000 MHz. (3) Titik kumpul komunikasi — BPBD biasanya mendirikan posko dengan radio dan jalur satelit. Kunjungi posko terdekat untuk info dan pesan ke keluarga. (4) SMS biasanya lebih berhasil dari panggilan suara saat jaringan padat. (5) Sinyal ponsel mungkin ada di tempat tinggi atau tepi desa — jalan ke titik lebih tinggi untuk coba kirim SMS. (6) Tanda darurat awam: asap di siang hari (3 kali), senter di malam hari (3 kali), peluit (3 tiupan) — tanda internasional butuh bantuan.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_obat_obatan_darurat_020",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_kesehatan_pengungsian.txt",
+    "topic": "pengelolaan_obat_dan_kondisi_kronis",
+    "language": "id",
+    "text": "Pengelolaan kondisi kesehatan kronis saat bencana dan di pengungsian: DIABETES: Jika kehabisan insulin atau obat diabetes, segera lapor ke tim kesehatan di posko atau puskesmas terdekat. Jangan makan makanan tinggi gula. Tanda darurat diabetes: lemas ekstrem, napas berbau buah, atau tidak sadar — hubungi tenaga medis segera. HIPERTENSI: Jangan hentikan obat hipertensi mendadak. Jika obat habis, minta ke tim medis posko atau puskesmas. Kurangi garam dan tetap minum air cukup. ASMA: Jauhi debu dan asap saat bersih-bersih. Gunakan masker. Jika tidak punya inhaler, duduk tegak dan bernapas perlahan. Hubungi tim medis. EPILEPSI: Stres bisa memicu kejang. Jangan melewatkan obat. Informasikan kondisi ke orang terdekat agar bisa membantu saat kejang. Posko bencana umumnya menyediakan obat-obatan esensial gratis — jangan ragu meminta.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_saat_menunggu_bantuan_021",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_umum.txt",
+    "topic": "tindakan_prioritas_saat_menunggu_bantuan",
+    "language": "id",
+    "text": "Tindakan prioritas saat menunggu bantuan datang pasca bencana (dalam urutan): PERTAMA — Pastikan semua orang dalam kondisi stabil secara medis. Orang dengan luka atau kondisi darurat harus diidentifikasi dan diprioritaskan. KEDUA — Amankan sumber air minum. Masak air atau gunakan yang tersimpan dalam kemasan tertutup. KETIGA — Berlindung dari cuaca. Jika rumah tidak aman, gunakan tenda darurat, terpal, atau beralih ke bangunan yang lebih kokoh di sekitar. KEEMPAT — Daftarkan diri ke RT/RW atau posko terdekat agar tim bantuan mengetahui keberadaan dan kebutuhan Anda. KELIMA — Jaga moral dan ketenangan kelompok. Tunjuk satu orang sebagai koordinator yang mengumpulkan dan menyampaikan informasi. Hindari menyebarkan kabar yang belum dikonfirmasi karena bisa menimbulkan kepanikan.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_gempa_rekonstruksi_rumah_aman_022",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_rekonstruksi_bencana.txt",
+    "topic": "prinsip_membangun_ulang_rumah_tahan_gempa",
+    "language": "id",
+    "text": "Prinsip dasar membangun kembali rumah yang lebih tahan gempa (untuk awam): (1) PONDASI: Gunakan pondasi menerus (batu kali atau beton) — bukan hanya batu di sudut saja. Kedalaman minimal 60 cm di bawah permukaan tanah. (2) KOLOM DAN BALOK: Pasang kolom minimal setiap 3-4 meter. Hubungkan kolom dan balok dengan tulangan besi yang menerus — bukan kolom berdiri sendiri. (3) DINDING: Plester penuh, bukan setengah-setengah. Pasang angkur besi yang menghubungkan dinding ke kolom setiap 50 cm. (4) ATAP: Atap ringan (genteng metal atau baja ringan) lebih aman dari genteng tanah liat berat. Pastikan sambungan rangka atap ke balok menggunakan baut atau paku khusus. (5) TANAH: Jangan bangun di tepi tebing, lereng curam, atau bekas longsoran — meski sudah diberi pondasi kuat. Konsultasikan dengan petugas BPBD atau Dinas PU setempat untuk desain rumah yang sudah diuji.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_banjir_penyakit_pasca_banjir_023",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_pasca_banjir.txt",
+    "topic": "penyakit_yang_sering_muncul_pasca_banjir",
+    "language": "id",
+    "text": "Penyakit yang sering muncul 1-4 minggu setelah banjir dan cara pencegahannya: (1) DIARE: Dari air dan makanan terkontaminasi. Pencegahan: cuci tangan, masak air. Tanda darurat: diare lebih dari 5 kali sehari atau ada darah — ke puskesmas. (2) LEPTOSPIROSIS: Dari air terkontaminasi urine tikus. Gejala: demam tiba-tiba + nyeri betis. Harus ke dokter dalam 3 hari pertama gejala. (3) DEMAM BERDARAH: Dari nyamuk berkembang di genangan sisa. Pencegahan: PSN (kuras, tutup, daur ulang). Tanda darurat: demam 3 hari + bintik merah di kulit. (4) PENYAKIT KULIT: Dari air kotor. Tanda: gatal, ruam, atau bercak merah. Oleskan bedak antijamur atau krim antiseptik. (5) INFEKSI SALURAN NAPAS: Dari kelembapan dan ventilasi buruk. Pencegahan: jaga ventilasi, jangan tidur di lantai basah. Segera ke puskesmas atau pos kesehatan di posko jika gejala memburuk.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_barang_penting_selamatkan_024",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_umum.txt",
+    "topic": "prioritas_barang_yang_diselamatkan",
+    "language": "id",
+    "text": "Urutan prioritas barang yang harus diselamatkan saat singkat waktu (misalnya bangunan tidak aman atau banjir naik kembali): PRIORITAS 1 — Dokumen penting: KTP, KK, akta kelahiran, sertifikat tanah, buku tabungan, BPJS, ijazah. Simpan dalam kantong plastik kedap air. PRIORITAS 2 — Obat-obatan rutin terutama untuk kondisi kronis (diabetes, hipertensi, epilepsi). PRIORITAS 3 — Alat komunikasi: ponsel, charger, powerbank. PRIORITAS 4 — Uang tunai secukupnya (ATM mungkin tidak bisa diakses). PRIORITAS 5 — Pakaian untuk 3 hari, selimut, perlengkapan bayi jika ada. Yang TIDAK perlu diselamatkan saat waktu mendesak: barang elektronik besar, furnitur, peralatan rumah tangga. Nyawa dan dokumen jauh lebih penting dari harta benda yang bisa diganti.",
+    "phase": "recovery"
+  },
+  {
+    "chunk_id": "recovery_umum_pertanyaan_umum_pasca_bencana_025",
+    "disaster_type": "pasca_bencana",
+    "source": "panduan_pemulihan_umum.txt",
+    "topic": "tanya_jawab_umum_pasca_bencana",
+    "language": "id",
+    "text": "Pertanyaan yang sering diajukan pasca bencana: Q: Kapan saya bisa kembali ke rumah? A: Tergantung status bangunan (stiker BPBD) dan kondisi area — ikuti pengumuman resmi BPBD, jangan kembali sebelum dinyatakan aman. Q: Dokumen saya hilang semua, bagaimana? A: Datang ke Disdukcapil setempat, gratis untuk korban bencana. Bawa saksi (tetangga/RT). Q: Apakah bantuan pemerintah akan datang? A: Ya, daftarkan diri ke posko BPBD terdekat. Bantuan berupa sembako, terpal, dan uang tunai biasanya tiba dalam 1-3 hari untuk bencana berskala sedang-besar. Q: Anak saya tidak mau makan dan terus menangis, normal? A: Normal, ini reaksi stres. Jaga rutinitas, peluk, dan tenangkan. Jika berlangsung lebih dari 2 minggu atau anak menolak makan sama sekali, minta bantuan tenaga psikososial di posko. Q: Rumah saya rusak tapi belum hancur, boleh ditinggali? A: Hanya jika sudah diperiksa dan mendapat stiker kuning (aman sementara) dari BPBD. Jangan ambil keputusan sendiri untuk rumah yang ada retakan struktural.",
+    "phase": "recovery"
+  }
+]
